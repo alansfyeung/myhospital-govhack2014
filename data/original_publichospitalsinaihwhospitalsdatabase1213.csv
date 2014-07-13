@@ -1,0 +1,779 @@
+State,Hospname,Establishment ID,Parent Id,Unit,Medicare Prov Number,Address Line 1,Address Line 2,Remoteness area (code),Remoteness area ,Number of available beds,2012-13 Peer Group code,2012-13 Peer Group Name,Admissions reported,Emergency department,Elective surgery reported,Outpatient clinics,2011-12 Peer Group code,2011-12 Peer Group Name
+ACT,Canberra Hospital & Health Services,810000082, ,Hospital,0090030B,Yamba Dr,Garran 2605,0,Major Cities,741,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+ACT,Calvary Public Hospital,810000083, ,Hospital,0090040A,Haydon DR,Bruce 2617,0,Major Cities,235,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+ACT,QEII Family Centre,810000084, ,Hospital,0090020F,129 Carruthers ST,Curtin 2605,0,Major Cities,10,O1,Early parenting centres,No,No,No,No,E5,Mothercraft
+NSW,Justice Health,1117C1010, ,Hospital,0012860K,Anzac PDE,Malabar 2036,0,Major Cities,345.9,Ps,Psychiatric public,Yes,No,No,No,C1,Medium (group 1)
+NSW,Children's Hospital Westmead,1163A2070, ,Hospital,0010300T,178 Hawkesbury RD,Westmead 2145,0,Major Cities,280.8,W3,Childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+NSW,Sydney Children's,1163C2380, ,Hospital,0010260H,1 High ST,Randwick 2031,0,Major Cities,148.5,W3,Childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+NSW,Sacred Heart Hospice,1169A2090, ,Hospital,0010400K,170 Darlinghurst RD,Darlinghurst 2010,0,Major Cities,69.6,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+NSW,St Vincent's Darlinghurst,1169A2120, ,Hospital,0010460Y,390 Victoria ST,Darlinghurst 2010,0,Major Cities,363.8,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,St Joseph's Auburn,1169D2130, ,Hospital,0010430F,19a Alice ST,Auburn 2144,0,Major Cities,71.5,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Balmain,1170A2010, ,Hospital,0010030Y,29 Booth ST,Balmain 2041,0,Major Cities,74.2,S2,Other small public acute,Yes,No,No,No,E9,Other non-acute
+NSW,Canterbury,1170A2020, ,Hospital,0010090J,575 Canterbury RD,Campsie 2194,0,Major Cities,172.4,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Royal Prince Alfred,1170A2080, ,Hospital,0010320k,50 Missenden RD,Camperdown 2050,0,Major Cities,753.2,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Tresillian Care Centres,1170A2340, ,Hospital,0010350F,571 Canterbury RD,Campsie 2194,0,Major Cities,33.2,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+NSW,Concord,1170A2370, ,Hospital,0012720A,1a Hospital RD,Concord West 2138,0,Major Cities,663.7,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,RPAH Institute of Rheumatology & Orthopaedics,1170A2390, ,Hospital, ,57-59 Missenden RD,Camperdown 2050,0,Major Cities,24.6,O3,Other public acute specialised,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Karitane Mothercraft Society,1171C2030, ,Hospital,0010150L,53-65 Mitchell ST,Carramar 2163,0,Major Cities,18.5,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+NSW,Camden,1171D2050, ,Hospital,0010870B,65 Menangle RD,Camden 2570,0,Major Cities,56.7,S2,Other small public acute,Yes,Yes,No,No,D2,Small non-acute
+NSW,Fairfield,1171D2060, ,Hospital,0010110Y,360 Prairie Vale RD,Prairiewood 2176,0,Major Cities,208,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Liverpool,1171D2090, ,Hospital,0010200X,Lot 2 Elizabeth ST,Liverpool 2170,0,Major Cities,738.6,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Campbelltown,1171D2150, ,Hospital,0012750W,1 Therry RD,Campbelltown 2560,0,Major Cities,334.7,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Bankstown/ Lidcombe,1171D2270, ,Hospital,0010040X,68 Eldridge RD,Bankstown 2200,0,Major Cities,392.5,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Braeside,1171D2280, ,Hospital,0012830W,340 Prairie Vale RD,Prairiewood 2176,0,Major Cities,72,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Bowral,1171N2190, ,Hospital,0010690H,Lot 3 Mona RD,Bowral 2576,1,Inner Regional,70.8,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Sydney/ Sydney Eye,1172A2330, ,Hospital,0010500H,8 Macquarie ST,Sydney 2000,0,Major Cities,66.8,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Sydney Dental,1172C1530, ,Hospital, ,2 Chalmers ST,Surry Hills 2010,0,Major Cities,0,O5,Unpeered,No,No,No,No,G,Un-peered and other
+NSW,Calvary,1172C2020, ,Hospital,0012520J,91-101 Rocky Point RD,Kogarah 2217,0,Major Cities,106.3,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,G,Un-peered and other
+NSW,Gower Wilson (MPS),1172C2050, ,Hospital, ,1 Lagoon RD,Lord Howe Island 2898,4,Very remote,0.1,VS,Very small public,Yes,No,No,No,E9,Other non-acute
+NSW,Waverley War Memorial,1172C2060, ,Hospital,0012590W,125 Birrell ST,Waverley 2024,0,Major Cities,35,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,E4,Rehabilitation
+NSW,Prince of Wales,1172C2080, ,Hospital,0010260H,147 Barker ST,Randwick 2031,0,Major Cities,512.7,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,St George,1172C2130, ,Hospital,0010410J,28 Gray ST,Kogarah 2017,0,Major Cities,605.7,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Sutherland,1172C2140, ,Hospital,0010480W,430 Kingsway,Caringbah 2229,0,Major Cities,318.8,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Royal For Women,1172C2200, ,Hospital,0010070L,Barker ST,Randwick 2031,0,Major Cities,122.2,W1,Womens,Yes,No,Yes,Yes,A2,Specialist womens and childrens
+NSW,Bulli,1173P2020, ,Hospital,0010850H,33A Hospital RD,Bulli 2516,0,Major Cities,56.3,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D2,Small non-acute
+NSW,Coledale,1173P2030, ,Hospital,0010970Y,636 Lawrence Hargrave DR,Coledale 2515,0,Major Cities,38,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Kiama,1173P2040, ,Hospital, ,1 Bonaira ST,Kiama 2533,1,Inner Regional,20,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Milton and Ulladulla,1173P2050, ,Hospital,0011740F,104 Princes HWY,Milton 2538,1,Inner Regional,25.3,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Port Kembla,1173P2060, ,Hospital,0012480A,89-91 Cowper ST,Warrawong 2502,0,Major Cities,56.2,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E4,Rehabilitation
+NSW,Shoalhaven Memorial,1173P2070, ,Hospital,0012060Y,2 Shoalhaven ST,Nowra 2541,1,Inner Regional,155.1,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Wollongong,1173P2080, ,Hospital,0012400W,348 Crown ST,Wollongong 2500,0,Major Cities,484.6,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Shellharbour,1173P2110, ,Hospital,0010060T,15-17 Madigan BVD,Mount Warrigal 2528,0,Major Cities,165.5,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Illawarra Mental Health Services,1173P2170, ,Hospital, ,15-17 Madigan BVD,Shellharbour Square 2529,0,Major Cities,0,O5,Unpeered,No,No,No,No,G,Un-peered and other
+NSW,David Berry,1173P2910, ,Hospital,0011130J,85 Tannery RD,Berry 2535,1,Inner Regional,26,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Auburn,1174D2010, ,Hospital,0010020A,18-20 Hargrave RD,Auburn 2144,0,Major Cities,123.9,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Blacktown,1174D2030, ,Hospital,0012490Y,44 Blacktown RD,Blacktown 2148,0,Major Cities,336.8,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Mount Druitt,1174D2180, ,Hospital,0012780K,75 Railway ST,Mount Druitt 2770,0,Major Cities,133.5,M,Medium public acute,Yes,Yes,Yes,No,B1,Large Major cities
+NSW,Westmead,1174D2240, ,Hospital,0012760T,166 Darcy RD,Westmead 2145,0,Major Cities,788.3,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Blue Mountains,1175D2040, ,Hospital,0010730T,Lot 3 Woodlands RD,Katoomba 2780,0,Major Cities,92.9,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Nepean,1175D2100, ,Hospital,0011860X,256 Derby ST,Kingswood 2747,0,Major Cities,522,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Springwood,1175D2140, ,Hospital,0012730Y,7-9 Huntley Grange RD,Springwood 2777,0,Major Cities,29.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+NSW,Hawkesbury,1175D2290, ,Hospital,0017140B,Cnr Macquarie and Day St,Windsor 2756,0,Major Cities,97,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Tresillian Wentworth,1175D2300, ,Hospital, ,1b Barber AV,Kingswood 2747,0,Major Cities,35.5,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+NSW,Wentworth Psychiatric Services,1175D2320, ,Hospital, ,Nepean Hospital,Penrith 2750,0,Major Cities,11,O5,Unpeered,No,No,No,No,G,Un-peered and other
+NSW,Lithgow,1175L2130, ,Hospital,0011600W,2 Col Drewe DR,Lithgow 2790,1,Inner Regional,36.6,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Portland,1175L2200, ,Hospital,0011960T,20 Green ST,Portland 2847,1,Inner Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Greenwich,1176B2080, ,Hospital,0012510K,97-115 River RD,Greenwich 2065,0,Major Cities,78.8,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Neringah,1176B2090, ,Hospital,0010130W,4-12 Neringah AV,Wahroonga South 2076,0,Major Cities,19,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+NSW,Hornsby and Ku-Ring-Gai,1176B2100, ,Hospital,0010140T,36-76 Palmerston RD,Hornsby 2077,0,Major Cities,252.7,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Manly,1176B2120, ,Hospital,0010220T,150 Darley RD,Manly 2095,0,Major Cities,155,L,Large public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Mona Vale,1176B2140, ,Hospital,0012470B,18 Coronation ST,Mona Vale 2103,0,Major Cities,162.4,L,Large public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Royal North Shore,1176B2180, ,Hospital,0010310L,1 Reserve RD,St Leonards 2065,0,Major Cities,657.6,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Royal Rehabilitation,1176B2210, ,Hospital,0012600J,227 Morrison RD,Ryde 2112,0,Major Cities,100,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,E4,Rehabilitation
+NSW,Ryde,1176B2240, ,Hospital,0010390X,1 Denistone RD,Eastwood 2122,0,Major Cities,142.1,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Gosford,1177B2020, ,Hospital,0011270X,76 Holden ST,Gosford 2250,0,Major Cities,478.3,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Woy Woy,1177B2030, ,Hospital,0012650Y,7 Kathleen ST,Woy Woy 2256,0,Major Cities,24.2,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+NSW,Long Jetty,1177B2040, ,Hospital,0012680T,Wyong Road,Long Jetty 2261,0,Major Cities,12,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+NSW,Wyong,1177B2060, ,Hospital,0012770L,Pacific HWY,Kanwal 2259,0,Major Cities,320.7,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Armidale,1180J2010, ,Hospital,0010570T,226 Rusden ST,Armidale 2350,1,Inner Regional,91.9,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Barraba (MPS),1180J2020, ,Hospital,0010620Y,1 Edward ST,Barraba 2347,2,Outer Regional,22,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Bingara (MPS),1180J2030, ,Hospital,0010710X,1 Keera ST,Bingara 2404,2,Outer Regional,7,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Boggabri (MPS),1180J2040, ,Hospital,0010740L,3 Wee Waa ST,Boggabri 2382,2,Outer Regional,19.9,VS,Very small public,Yes,Yes,No,No,G,Un-peered and other
+NSW,Glen Innes,1180J2050, ,Hospital,0011240B,94 Taylor ST,Glen Innes 2370,2,Outer Regional,35.5,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D1,Small regional acute
+NSW,Gunnedah,1180J2060, ,Hospital,0011370T,2 Marquis ST,Gunnedah 2380,2,Outer Regional,33.9,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D1,Small regional acute
+NSW,Guyra (MPS),1180J2070, ,Hospital,0011380L,44-48 Sole ST,Guyra 2365,2,Outer Regional,22,S2,Other small public acute,Yes,Yes,No,No,E9,Other non-acute
+NSW,Inverell,1180J2080, ,Hospital,0011460L,41-61 Swanbrook RD,Inverell 2360,2,Outer Regional,33.8,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Manilla (MPS),1180J2110, ,Hospital,0011670B,143 Court ST,Manilla 2346,2,Outer Regional,12,S2,Other small public acute,Yes,Yes,No,No,D2,Small non-acute
+NSW,Moree,1180J2120, ,Hospital,0011760A,35 Alice ST,Moree 2400,2,Outer Regional,39.9,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Narrabri,1180J2130, ,Hospital,0011830B,11 Cameron ST,Narrabri 2390,2,Outer Regional,29.7,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D1,Small regional acute
+NSW,Prince Albert Tenterfield,1180J2140, ,Hospital,0011970L,1-5 Naas ST,Tenterfield 2372,2,Outer Regional,18,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Quirindi,1180J2150, ,Hospital,0011990J,42 Nowland ST,Quirindi 2343,2,Outer Regional,20,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Tamworth,1180J2160, ,Hospital,0012090T,31 Dean ST,North Tamworth 2340,1,Inner Regional,246,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Tingha (MPS),1180J2170, ,Hospital,0012130A,1 Inverell RD,Tingha 2369,2,Outer Regional,0,OT,Outpatient hospital,No,Yes,No,No,G,Un-peered and other
+NSW,Vegetable Creek (MPS),1180J2180, ,Hospital,0012240W,13-33 Glen Innes RD,Emmaville 2371,2,Outer Regional,17,VS,Very small public,Yes,Yes,No,No,G,Un-peered and other
+NSW,Walcha (MPS),1180J2190, ,Hospital,0012270K,7 South ST,Walcha 2354,2,Outer Regional,9,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Warialda (MPS),1180J2200, ,Hospital,0012300Y,146 Long ST,Warialda 2402,2,Outer Regional,10.8,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Wee Waa,1180J2210, ,Hospital,0012330T,60 Alma ST,Wee Waa 2388,2,Outer Regional,14,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Werris Creek,1180J2220, ,Hospital,0012370H,22-34 North ST,Werris Creek 2341,1,Inner Regional,13.6,VS,Very small public,Yes,Yes,No,No,G,Un-peered and other
+NSW,Bulahdelah - Myall Lakes,1180J2230, ,Hospital,0010840J,1 Richmond ST,Bulahdelah 2423,1,Inner Regional,0,VS,Very small public,No,Yes,No,No,G,Un-peered and other
+NSW,Gloucester,1180J2240, ,Hospital,0011250A,166 Church ST,Gloucester 2422,1,Inner Regional,19.5,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D1,Small regional acute
+NSW,Manning,1180J2250, ,Hospital,0011680A,26 York ST,Taree 2430,1,Inner Regional,167.3,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Wingham,1180J2260, ,Hospital,0012610H,32 Bungay RD,Wingham 2429,1,Inner Regional,32,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,E4,Rehabilitation
+NSW,Cessnock,1180Q2020, ,Hospital,0010940F,Lot 1 View ST,Cessnock 2325,1,Inner Regional,50,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Dungog,1180Q2030, ,Hospital,0011190X,58 Hospital RD,Dungog 2420,1,Inner Regional,15,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Kurri Kurri,1180Q2050, ,Hospital,0011540L,432 Lang ST,Kurri Kurri 2327,0,Major Cities,42.3,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D2,Small non-acute
+NSW,Maitland,1180Q2060, ,Hospital,0011650H,550 High ST,Maitland 2320,0,Major Cities,194,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Merriwa (MPS),1180Q2080, ,Hospital,0011720J,1 Mackenzie ST,Merriwa 2329,2,Outer Regional,8,VS,Very small public,Yes,Yes,No,No,G,Un-peered and other
+NSW,Muswellbrook,1180Q2090, ,Hospital,0010800W,36 Brentwood ST,Muswellbrook 2333,1,Inner Regional,47,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Denman (MPS),1180Q2100, ,Hospital,0010810T,51-53 Ogilvie ST,Denman 2328,1,Inner Regional,17,VS,Very small public,No,Yes,No,No,G,Un-peered and other
+NSW,Calvary Mater Newcastle,1180Q2110, ,Hospital,0011870W,4 Edith ST,Waratah 2298,0,Major Cities,178,L,Large public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+NSW,Belmont,1180Q2140, ,Hospital,0012550B,16 Croudace Bay RD,Belmont 2280,0,Major Cities,98.6,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Scott Memorial Scone,1180Q2160, ,Hospital,0012050A,24 Stafford ST,Scone 2337,1,Inner Regional,29,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D1,Small regional acute
+NSW,Singleton,1180Q2170, ,Hospital,0012070X,Lot 20 Dangar RD,Singleton 2330,1,Inner Regional,47.4,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Murrurundi,1180Q2190, ,Hospital,0012390B,59 O'Connell ST,Murrurundi 2338,2,Outer Regional,18,S2,Other small public acute,Yes,Yes,No,No,G,Un-peered and other
+NSW,Tomaree Community,1180Q2250, ,Hospital,0010000F,2 Trevally ST,Nelson Bay 2315,1,Inner Regional,14,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,John Hunter,1180Q2300, ,Hospital,0012790J,156 Kookaburra CCT,New Lambton Heights 2305,0,Major Cities,761.3,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Ballina,1181H2010, ,Hospital,0010580L,78-92 Cherry ST,Ballina 2478,1,Inner Regional,68.8,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Byron Bay,1181H2040, ,Hospital,0010860F,10 Shirley ST,Byron Bay 2481,1,Inner Regional,19,S2,Other small public acute,Yes,Yes,No,No,D1,Small regional acute
+NSW,Campbell Coraki,1181H2050, ,Hospital,0010880A,1 Spring ST,Coraki 2471,1,Inner Regional,0.1,VS,Very small public,No,No,No,No,G,Un-peered and other
+NSW,Casino,1181H2060, ,Hospital,0010920J,1 Hotham ST,Casino 2470,1,Inner Regional,29.1,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Bonalbo,1181H2070, ,Hospital,0010760J,1 Hospital RD,Bonalbo 2469,2,Outer Regional,0,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+NSW,Grafton,1181H2100, ,Hospital,0011300H,174 Arthur ST,Grafton 2460,1,Inner Regional,97.3,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+NSW,Kyogle (MPS),1181H2130, ,Hospital,0011550K,199 Sumerland Way,Kyogle 2474,1,Inner Regional,36.9,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Lismore,1181H2140, ,Hospital,0011590B,60 Uralba ST,Lismore 2480,1,Inner Regional,249,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Nimbin (MPS),1181H2150, ,Hospital,0011890L,87 Cullen ST,Nimbin 2480,1,Inner Regional,12.6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Maclean,1181H2170, ,Hospital,0011630K,21 Union ST,Maclean 2463,1,Inner Regional,37.2,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Mullumbimby,1181H2200, ,Hospital,0011800J,1-3 Azalea ST,Mullumbimby 2482,1,Inner Regional,19,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,No,D1,Small regional acute
+NSW,Murwillumbah,1181H2210, ,Hospital,0012210A,8 Ewing ST,Murwillumbah 2484,1,Inner Regional,70.8,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,St. Vincent's Lismore,1181H2220, ,Hospital,0012040B,20 Dalley AV,Lismore 2480,1,Inner Regional,0,O5,Unpeered,No,No,No,No,E4,Rehabilitation
+NSW,The Tweed Hospital,1181H2230, ,Hospital,0012690L,14 Powell ST,Tweed Heads 2485,0,Major Cities,229.8,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Urbenville (MPS),1181H2240, ,Hospital,0012230X,45 Beaury ST,Urbenville 2475,2,Outer Regional,22,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+NSW,Riverlands Drug and Alcohol Centre,1181H2670, ,Hospital,0011590B,Cnr Uralba & Hunter Streets,Lismore 2480,1,Inner Regional,14,O2,Drug and alcohol hospital,Yes,No,No,No,G,Un-peered and other
+NSW,Bellinger River,1182H2030, ,Hospital,0010680J,43 Church ST,Bellingen 2454,2,Outer Regional,30.4,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+NSW,Coffs Harbour,1182H2080, ,Hospital,0010960A,345 Pacific HWY,Coffs Harbour 2450,1,Inner Regional,254,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Dorrigo (MPS),1182H2090, ,Hospital,0011160B,14 Beech ST,Dorrigo 2453,2,Outer Regional,27,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Macleay Valley - Kempsey,1182H2120, ,Hospital,0011640J,119 River ST,Kempsey 2440,1,Inner Regional,68.1,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Macksville,1182H2160, ,Hospital,0011820F,14-22 Boundary ST,Macksville 2447,2,Outer Regional,46.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Wauchope,1182H2250, ,Hospital,0012320W,69 High ST,Wauchope 2446,1,Inner Regional,32.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+NSW,Port Macquarie,1182H2720, ,Hospital, ,1-31 Wrights RD,Port Macquarie 2444,1,Inner Regional,169.6,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Batemans Bay,1183N2010, ,Hospital,0010640W,7 Pacific ST,Batemans Bay 2536,1,Inner Regional,38.9,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+NSW,Bega,1183N2020, ,Hospital,0010670K,1 McKee DR,Bega 2550,2,Outer Regional,70.1,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Bombala,1183N2030, ,Hospital,0010750K,126 Wellington ST,Bombala 2632,2,Outer Regional,18.3,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Braidwood (MPS),1183N2050, ,Hospital,0010790B,77 Monkittee ST,Braidwood 2622,1,Inner Regional,32,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Cooma HS,1183N2060, ,Hospital,0011010W,1 Bent ST,Cooma 2630,1,Inner Regional,39.5,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Crookwell,1183N2070, ,Hospital,0011100T,17 Kialla RD,Crookwell 2583,1,Inner Regional,18,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Delegate (MPS),1183N2080, ,Hospital,0011140H,15 Craigie ST,Delegate 2633,2,Outer Regional,13,VS,Very small public,No,No,No,No,E2,Multi-purpose services
+NSW,Goulburn,1183N2090, ,Hospital,0011280W,130 Goldsmith ST,Goulburn 2580,1,Inner Regional,108.9,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+NSW,Moruya,1183N2110, ,Hospital,0011780X,2-10 River ST,Moruya 2537,1,Inner Regional,59.9,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Pambula,1183N2140, ,Hospital,0011930Y,1 Merimbola ST,Pambula 2549,2,Outer Regional,29.8,S2,Other small public acute,Yes,No,Yes,No,D1,Small regional acute
+NSW,Queanbeyan,1183N2150, ,Hospital,0011980K,16 Erin ST,Queanbeyan 2620,0,Major Cities,45.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Bourke Street Health Service,1183N2160, ,Hospital,0012020H,234 Bourke ST,Goulburn 2580,1,Inner Regional,49.1,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Yass,1183N2170, ,Hospital,0012420L,145 Meehan ST,Yass 2582,1,Inner Regional,10,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Lake Cargelligo (MPS),1184L2120, ,Hospital,0011560J,1 Uabba ST,Lake Cargelligo 2672,3,Remote,22,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Wyalong,1184L2260, ,Hospital,0012410T,70 Ungarie RD,West Wyalong 2671,2,Outer Regional,22,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Barham Koondrook,1184M2030, ,Hospital,0010610A,70 Punt RD,Barham 2732,2,Outer Regional,18,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Berrigan (MPS),1184M2040, ,Hospital,0010700Y,137 Memorial Place,Berrigan 2712,2,Outer Regional,4,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Culcairn (MPS),1184M2050, ,Hospital,0011120K,51-55 Balfour ST,Culcairn 2660,1,Inner Regional,27,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Corowa,1184M2060, ,Hospital,0011080B,53 Guy ST,Corowa 2646,1,Inner Regional,50.5,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Deniliquin,1184M2070, ,Hospital,0011150F,411 Charlotte ST,Deniliquin 2710,1,Inner Regional,44.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Finley,1184M2080, ,Hospital,0011210J,24 Dawe AV,Finley 2713,1,Inner Regional,14.9,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Henty (MPS),1184M2090, ,Hospital,0011430X,7 Keighran ST,Henty 2658,1,Inner Regional,3,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Holbrook,1184M2100, ,Hospital,0011450T,1 Bowler ST,Holbrook 2644,1,Inner Regional,26,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Jerilderie (MPS),1184M2110, ,Hospital,0011500Y,33-39 Southey ST,Jerilderie 2716,2,Outer Regional,3,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+NSW,Mercy Care Centre Albury,1184M2120, ,Hospital,0011690Y,550 Poole ST,Albury 2640,1,Inner Regional,30,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Urana (MPS),1184M2130, ,Hospital,0011620L,127 Princess ST,Urana 2645,2,Outer Regional,22,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+NSW,Tocumwal,1184M2140, ,Hospital,0012140Y,1 Adams ST,Tocumwal 2714,1,Inner Regional,16,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Tumbarumba (MPS),1184M2150, ,Hospital,0012180L,4 Mitchell ST,Tumbarumba 2653,2,Outer Regional,42.5,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Boorowa,1184N2040, ,Hospital,0010770H,62-80 Dry ST,Boorowa 2586,1,Inner Regional,5.1,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Mercy Care Centre Young,1184N2100, ,Hospital,0011710K,69 Demondrille ST,Young 2594,1,Inner Regional,26,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,E9,Other non-acute
+NSW,Murrumburrah - Harden,1184N2130, ,Hospital,0011810H,54 Swift ST,Harden 2587,1,Inner Regional,13,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Young,1184N2180, ,Hospital,0012430K,68 Allanan ST,Young 2594,1,Inner Regional,28,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Batlow/Adelong (MPS),1184R2020, ,Hospital,0010660L,61-81 Pioneer ST,Batlow 2730,2,Outer Regional,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Griffith,1184R2050, ,Hospital,0011340Y,1 Noorebar AV,Griffith 2680,2,Outer Regional,88.3,L,Large public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Gundagai,1184R2060, ,Hospital,0011360W,50 Tor ST,Gundagai 2722,1,Inner Regional,18.4,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Hay,1184R2070, ,Hospital,0011410A,351 Murray ST,Hay 2711,2,Outer Regional,28,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+NSW,Hillston,1184R2080, ,Hospital,0011440W,48C Burns ST,Hillston 2675,3,Remote,16,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Junee (MPS),1184R2090, ,Hospital,0011510X,67 Broadway ST,Junee 2663,1,Inner Regional,34,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Coolamon (MPS),1184R2100, ,Hospital,0011520W,1 Buchanan DR,Coolamon 2701,1,Inner Regional,14,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Leeton,1184R2110, ,Hospital,0011570H,1 Wade AV,Leeton 2705,2,Outer Regional,67,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Lockhart,1184R2130, ,Hospital,0011610T,53-55 Hebden ST,Lockhart 2656,2,Outer Regional,15.6,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+NSW,Narrandera,1184R2150, ,Hospital,0011840A,56-64 Adams ST,Narrandera 2700,2,Outer Regional,25.7,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Temora,1184R2160, ,Hospital,0012100H,119 Gloucester ST,Temora 2666,2,Outer Regional,26,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Tumut,1184R2180, ,Hospital,0012190K,105 Simpson ST,Tumut 2720,1,Inner Regional,31.5,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Wagga Wagga,1184R2190, ,Hospital,0012250T,260 Edward ST,Wagga Wagga 2650,1,Inner Regional,238.3,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Cootamundra,1184R2210, ,Hospital,0011070F,120 MacKay ST,Cootamundra 2590,1,Inner Regional,25.3,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Bourke (MPS),1185K2010, ,Hospital,0010780F,26 Tarcoon ST,Bourke 2840,4,Very remote,20,S2,Other small public acute,Yes,No,Yes,No,D3,Small remote acute
+NSW,Brewarrina (MPS),1185K2020, ,Hospital,0010820L,56 Doyle ST,Brewarrina 2839,4,Very remote,20,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+NSW,Cobar,1185K2030, ,Hospital,0010950B,1 Lerida RD,Cobar 2835,3,Remote,10.5,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+NSW,Collarenebri (MPS),1185K2040, ,Hospital,0010980X,1 Walgett ST,Collarenebri 2833,3,Remote,13,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Coolah (MPS),1185K2050, ,Hospital,0011000X,111 Martin ST,Coolah 2843,2,Outer Regional,27,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+NSW,Coonabarabran,1185K2060, ,Hospital,0011020T,101 Edwards ST,Coonabarabran 2357,2,Outer Regional,25,S2,Other small public acute,Yes,No,Yes,No,D1,Small regional acute
+NSW,Baradine (MPS),1185K2070, ,Hospital,0011030L,5-9 Darling ST,Baradine 2396,3,Remote,17,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Coonamble (MPS),1185K2090, ,Hospital,0011050J,150 Castlereagh ST,Coonamble 2829,3,Remote,25.1,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+NSW,Gulargambone (MPS),1185K2100, ,Hospital,0011060H,47 Bourbah ST,Gulargambone 2828,2,Outer Regional,12,VS,Very small public,No,No,No,No,G,Un-peered and other
+NSW,Dubbo,1185K2110, ,Hospital,0011170A,1 Myall ST,Dubbo 2830,1,Inner Regional,159.3,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Dunedoo (MPS),1185K2120, ,Hospital,0011180Y,70 Digilah ST,Dunedoo 2844,2,Outer Regional,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Gilgandra (MPS),1185K2130, ,Hospital,0011230F,6 Chelmsford AV,Gilgandra 2827,2,Outer Regional,31,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Goodooga,1185K2140, ,Hospital,0011260Y,49 Hammond ST,Goodooga 2831,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+NSW,Gulgong,1185K2150, ,Hospital,0011350X,112 Mayne ST,Gulgong 2852,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+NSW,Mudgee,1185K2160, ,Hospital,0011790W,139 Church ST,Mudgee 2850,1,Inner Regional,40.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Narromine,1185K2170, ,Hospital,0011850Y,128 Cathundral ST,Narromine 2821,2,Outer Regional,25,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Nyngan (MPS),1185K2180, ,Hospital,0011900F,15 Hoskins ST,Nyngan 2825,3,Remote,6,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+NSW,Trangie (MPS),1185K2190, ,Hospital,0012160W,28 Harris ST,Trangie 2823,2,Outer Regional,20,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+NSW,Walgett,1185K2200, ,Hospital,0012280J,141 Fox ST,Walgett 2832,3,Remote,21.2,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+NSW,Warren (MPS),1185K2210, ,Hospital,0012310X,176 Doctor Kater DR,Warren 2824,2,Outer Regional,42,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Wellington,1185K2220, ,Hospital,0012350K,30 Thornton ST,Wellington 2820,2,Outer Regional,22,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Lightning Ridge (MPS),1185K2310, ,Hospital,0012850L,Lot 25 Pandora ST,Lightning Ridge 2834,3,Remote,24.1,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Lourdes Dubbo,1185K7510, ,Hospital,0012840T,110 Cobbora RD,Dubbo 2830,1,Inner Regional,34,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,G,Un-peered and other
+NSW,Bathurst,1185L2010, ,Hospital,0010650T,361 Howick ST,Bathurst 2795,1,Inner Regional,115.4,L,Large public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+NSW,Blayney (MPS),1185L2020, ,Hospital,0010720W,3 Osman ST,Blayney 2799,1,Inner Regional,25.1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Canowindra,1185L2030, ,Hospital,0010890Y,1 Browns AV,Canowindra 2804,1,Inner Regional,18.6,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+NSW,Condobolin,1185L2050, ,Hospital,0010990W,1 Madline ST,Condobolin 2877,2,Outer Regional,22,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Cowra,1185L2060, ,Hospital,0011090A,64 Liverpool ST,Cowra 2794,1,Inner Regional,32.1,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+NSW,Cudal,1185L2070, ,Hospital, ,Cnr Cargo and Toogong Streets,Cudal 2864,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+NSW,Eugowra (MPS),1185L2080, ,Hospital,0011200K,1 Cooper ST,Eugowra 2806,2,Outer Regional,12.2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Forbes,1185L2090, ,Hospital,0011220H,Lot 1 Elgin ST,Forbes 2871,2,Outer Regional,36,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Grenfell (MPS),1185L2100, ,Hospital,0011320B,80-96 Cowra RD,Grenfell 2810,2,Outer Regional,34,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+NSW,Molong,1185L2140, ,Hospital,0011750B,130 King ST,Molong 2866,1,Inner Regional,27,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+NSW,Oberon (MPS),1185L2150, ,Hospital,0011910B,67-73 North ST,Oberon 2787,1,Inner Regional,30,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+NSW,Orange Health Service,1185L2160, ,Hospital,0011920A,1502 Forest RD,Orange 2800,1,Inner Regional,318.8,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NSW,Parkes,1185L2170, ,Hospital,0011940X,18 Coleman RD,Parkes 2870,2,Outer Regional,35.2,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+NSW,Peak Hill,1185L2180, ,Hospital,0011950W,111 Newell HWY,Peak Hill 2869,2,Outer Regional,13.4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Trundle (MPS),1185L2190, ,Hospital,0012580X,44 Brookview ST,Trundle 2875,2,Outer Regional,11,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+NSW,Rylstone (MPS),1185L2210, ,Hospital,0012010J,24 Fitzgerald ST,Rylstone 2849,2,Outer Regional,26,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Tottenham (MPS),1185L2230, ,Hospital,0012150X,Lot 10 Moondana ST,Tottenham 2873,3,Remote,3.6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Tullamore (MPS),1185L2240, ,Hospital,0012170T,1 Hinkler ST,Tullamore 2874,2,Outer Regional,3.9,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Menindee Health Service,1186K1010, ,Hospital, ,Perry ST,Menindee 2879,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,E2,Multi-purpose services
+NSW,Balranald (MPS),1186M2020, ,Hospital,0010590K,41-43 Court ST,Balranald 2715,2,Outer Regional,8,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+NSW,Wentworth,1186M2160, ,Hospital,0012360J,1 Silver City HWY,Wentworth 2648,2,Outer Regional,20,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+NSW,Broken Hill,1186S2010, ,Hospital,0010830K,176 Thomas ST,Broken Hill 2880,2,Outer Regional,95.8,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+NSW,Ivanhoe,1186S2020, ,Hospital,0011490H,1 Columbus ST,Ivanhoe 2878,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+NSW,Tibooburra,1186S2030, ,Hospital,0012120B,1 Sturt ST,Tibooburra 2880,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+NSW,Wilcannia (MPS),1186S2040, ,Hospital,0012380F,14 Ross ST,Wilcannia 2836,4,Very remote,8,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+NSW,Thomas Walker,1470A2360, ,Hospital, ,Hospital RD,Concord Repatriation Hospital 2139,0,Major Cities,16.3,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NSW,Cumberland,1474D1020, ,Hospital, ,1-11 Hainsworth ST,Westmead 2145,0,Major Cities,310.3,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NSW,Macquarie,1476B1010, ,Hospital, ,1 Wicks RD,North Ryde 2113,0,Major Cities,193.9,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NSW,Coral Tree Family Centre,1476B2410, ,Hospital, ,Pacific HWY,North Ryde 2113,0,Major Cities,10,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NSW,Morisset,1480Q1010, ,Hospital, ,143 Dora ST,Morisset 2264,0,Major Cities,129.6,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NSW,Hunter New England Mater Mental Health Service,1480Q1020, ,Hospital, ,72 Watt ST,Newcastle 2300,0,Major Cities,119.9,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NSW,Kenmore,1483N1010, ,Hospital, ,Taralga RD,Goulburn 2580,1,Inner Regional,54,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+NT,Royal Darwin Hospital,717100071, ,Hospital, ,Rocklands DV,Tiwi 810,2,Outer Regional,367,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+NT,Alice Springs Hospital,717100072, ,Hospital, ,Gap RD,Alice Springs 870,3,Remote,183,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+NT,Tennant Creek Hospital,717100073, ,Hospital, ,Schmidt ST,Tennant Creek 860,4,Very remote,20,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D3,Small remote acute
+NT,Katherine Hospital,717100074, ,Hospital, ,Gorge RD,Katherine 850,3,Remote,60,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D3,Small remote acute
+NT,Gove Hospital,717100075, ,Hospital, ,Mathew Flinders WAY,Nhulunbuy 880,4,Very remote,34,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D3,Small remote acute
+QLD,MATER ADULT HOSPITAL,310000001, ,Hospital, ,Raymond Terrace,South Brisbane 4101,0,Major Cities,262,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,MATER CHILDREN'S HOSPITAL,310000002, ,Hospital, ,Raymond Terrace,South Brisbane 4101,0,Major Cities,161,W3,Childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+QLD,MATER MOTHERS' HOSPITAL,310000003, ,Hospital, ,Raymond Terrace,South Brisbane 4101,0,Major Cities,128,W1,Womens,Yes,No,Yes,Yes,A2,Specialist womens and childrens
+QLD,THE PRINCE CHARLES HOSPITAL,310000004, ,Hospital, ,Rode Road,Chermside 4032,0,Major Cities,624,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,ROYAL CHILDREN'S HOSPITAL,310000007, ,Hospital, ,Herston Road,Herston 4006,0,Major Cities,201,W3,Childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+QLD,PRINCESS ALEXANDRA HOSPITAL,310000011, ,Hospital, ,199 Ipswich Road,Woolloongabba 4102,0,Major Cities,944,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,IPSWICH HOSPITAL,310000015, ,Hospital, ,Chelmsford Avenue,Ipswich 4305,0,Major Cities,341,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,REDCLIFFE HOSPITAL,310000016, ,Hospital, ,Anzac Avenue,Redcliffe 4020,0,Major Cities,352,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,ELLEN BARRON FAMILY CENTRE,310000017, ,Hospital, ,Hamilton Road,Chermside 4032,0,Major Cities,48,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+QLD,QUEEN ELIZABETH II JUBILEE HOSPITAL,310000022, ,Hospital, ,Corner of Kessels and Troughton Roads,Coopers Plains 4108,0,Major Cities,165,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,WYNNUM HOSPITAL,310000024, ,Hospital, ,Whites Road,Lota 4179,0,Major Cities,21,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+QLD,MARIE ROSE CENTRE,310000025, ,Hospital, ,Corner of Petrie Street and Oxley Parade,Dunwich 4183,2,Outer Regional,0,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,REDLAND HOSPITAL,310000028, ,Hospital, ,Weippin Street,Cleveland 4163,0,Major Cities,151,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+QLD,LOGAN HOSPITAL,310000029, ,Hospital, ,Corner of Armstrong and Loganlea Roads,Meadowbrook 4131,0,Major Cities,332,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,CABOOLTURE HOSPITAL,310000030, ,Hospital, ,McKean Street,Caboolture 4510,0,Major Cities,223,M,Medium public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,BEAUDESERT HOSPITAL,310000041, ,Hospital, ,64 Tina Street,Beaudesert 4285,1,Inner Regional,22,S2,Other small public acute,Yes,No,Yes,No,D2,Small non-acute
+QLD,BOONAH HOSPITAL,310000042, ,Hospital, ,11-17 Leonard Street,Boonah 4310,1,Inner Regional,23,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,CALOUNDRA HOSPITAL,310000043, ,Hospital, ,West Terrace,Caloundra 4551,0,Major Cities,88,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+QLD,ESK HOSPITAL,310000044, ,Hospital, ,30 Highland Street,Esk 4312,1,Inner Regional,20,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,GATTON HOSPITAL,310000045, ,Hospital, ,97-103 William Street,Gatton 4343,1,Inner Regional,22,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,KILCOY HOSPITAL,310000046, ,Hospital, ,19 Brown Street,Kilcoy 4515,1,Inner Regional,21,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,LAIDLEY HOSPITAL,310000047, ,Hospital, ,75 William Street,Laidley 4341,1,Inner Regional,15,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,MALENY HOSPITAL,310000048, ,Hospital, ,Bean Street,Maleny 4552,1,Inner Regional,24,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,NAMBOUR HOSPITAL,310000049, ,Hospital, ,Hospital Road,Nambour 4560,0,Major Cities,441,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,GOLD COAST HOSPITAL,310000050, ,Hospital, ,1 Hospital Boulevard,Southport 4215,0,Major Cities,570,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,BIGGENDEN HOSPITAL,310000061, ,Hospital, ,Alice Street,Biggenden 4621,2,Outer Regional,7,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,BUNDABERG HOSPITAL,310000062, ,Hospital, ,Bourbong Street,Bundaberg 4670,1,Inner Regional,243,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,CHERBOURG HOSPITAL,310000063, ,Hospital, ,Fisher Street,Cherbourg 4605,2,Outer Regional,17,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,CHILDERS HOSPITAL,310000064, ,Hospital, ,44 Broadhurst Street,Childers 4660,1,Inner Regional,14,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,EIDSVOLD HOSPITAL,310000065, ,Hospital, ,Cracow Road,Eidsvold 4627,2,Outer Regional,6,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+QLD,GAYNDAH HOSPITAL,310000066, ,Hospital, ,69 Warton Street,Gayndah 4625,2,Outer Regional,12,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,GIN GIN HOSPITAL,310000067, ,Hospital, ,5 King Street,Gin Gin 4671,2,Outer Regional,6,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,GYMPIE HOSPITAL,310000068, ,Hospital, ,12 Henry Street,Gympie 4570,1,Inner Regional,89,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+QLD,HERVEY BAY HOSPITAL,310000069, ,Hospital, ,Corner of Nissen and Uraween Roads,Pialba 4655,1,Inner Regional,151,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,KINGAROY HOSPITAL,310000070, ,Hospital, ,166 Youngman Street,Kingaroy 4610,1,Inner Regional,47,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+QLD,MARYBOROUGH HOSPITAL,310000071, ,Hospital, ,185 Walker Street,Maryborough 4650,1,Inner Regional,98,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+QLD,MONTO HOSPITAL,310000072, ,Hospital, ,35 Flinders Street,Monto 4630,2,Outer Regional,14,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,MOUNT PERRY HEALTH CENTRE,310000073, ,Hospital, ,150 Heussman Street,Mount Perry 4671,2,Outer Regional,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,MUNDUBBERA HOSPITAL,310000074, ,Hospital, ,96 Leichhardt Street,Mundubbera 4626,2,Outer Regional,6,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,MURGON HOSPITAL,310000075, ,Hospital, ,Coronation Drive,Murgon 4605,2,Outer Regional,15,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,NANANGO HOSPITAL,310000076, ,Hospital, ,135 Brisbane Street,Nanango 4615,1,Inner Regional,10,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,WONDAI HOSPITAL,310000077, ,Hospital, ,Bramston Street,Wondai 4606,2,Outer Regional,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,CHINCHILLA HOSPITAL,310000091, ,Hospital, ,Slessar Street,Chinchilla 4413,2,Outer Regional,26,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,DALBY HOSPITAL,310000092, ,Hospital, ,Hospital Road,Dalby 4405,1,Inner Regional,46,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+QLD,GOONDIWINDI HOSPITAL,310000093, ,Hospital, ,Bowen Street,Goondiwindi 4390,2,Outer Regional,37,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,INGLEWOOD HOSPITAL,310000094, ,Hospital, ,Cunningham Highway,Inglewood 4387,2,Outer Regional,12,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,JANDOWAE HOSPITAL,310000095, ,Hospital, ,13 Dalby Street,Jandowae 4410,2,Outer Regional,12,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,MILES HOSPITAL,310000097, ,Hospital, ,26 Colamba Street,Miles 4415,2,Outer Regional,13,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,MILLMERRAN HOSPITAL,310000098, ,Hospital, ,50 Commens Street,Millmerran 4357,1,Inner Regional,11,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,OAKEY HOSPITAL,310000099, ,Hospital, ,Corner Beale and Fitzpatrick Streets,Oakey 4401,1,Inner Regional,9,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,STANTHORPE HOSPITAL,310000100, ,Hospital, ,8 McGregor Terrace,Stanthorpe 4380,2,Outer Regional,46,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,TARA HOSPITAL,310000101, ,Hospital, ,15 Bilton Street,Tara 4421,2,Outer Regional,15,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,TAROOM HOSPITAL,310000102, ,Hospital, ,Miller Street,Taroom 4420,3,Remote,13,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,TEXAS HOSPITAL,310000103, ,Hospital, ,Mingoola Road,Texas 4385,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,TOOWOOMBA HOSPITAL,310000104, ,Hospital, ,Pechey Street,Toowoomba 4350,1,Inner Regional,305,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,WARWICK HOSPITAL,310000105, ,Hospital, ,56 Locke Street,Warwick 4370,1,Inner Regional,66,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+QLD,WANDOAN HOSPITAL,310000106, ,Hospital, ,14 Henderson Road,Wandoan 4419,3,Remote,2,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,AUGATHELLA HOSPITAL,310000111, ,Hospital, ,Cavanagh Street,Augathella 4477,4,Very remote,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,CHARLEVILLE HOSPITAL,310000112, ,Hospital, ,72 King Street,Charleville 4470,4,Very remote,30,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D3,Small remote acute
+QLD,CUNNAMULLA HOSPITAL,310000113, ,Hospital, ,56 Wicks Street,Cunnamulla 4490,4,Very remote,20,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,DIRRANBANDI HOSPITAL,310000114, ,Hospital, ,Corner of Jane and Cowildi Streets,Dirranbandi 4486,4,Very remote,7,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,INJUNE HOSPITAL,310000115, ,Hospital, ,Fifth Avenue,Injune 4454,4,Very remote,6,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+QLD,MITCHELL HOSPITAL,310000116, ,Hospital, ,95 Ann Street,Mitchell 4465,4,Very remote,13,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,MUNGINDI HOSPITAL,310000117, ,Hospital, ,Barwon Street,Mungindi 2406,3,Remote,8,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+QLD,QUILPIE HOSPITAL,310000118, ,Hospital, ,30 Gyrica Street,Quilpie 4480,4,Very remote,6,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+QLD,ROMA HOSPITAL,310000119, ,Hospital, ,197-234 Mcdowall Street,Roma 4455,2,Outer Regional,52,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,ST GEORGE HOSPITAL,310000120, ,Hospital, ,1 Victoria Street,St George 4487,3,Remote,34,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D3,Small remote acute
+QLD,SURAT HOSPITAL,310000121, ,Hospital, ,Ivan Street,Surat 4417,3,Remote,7,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+QLD,THARGOMINDAH HOSPITAL,310000122, ,Hospital, ,Dowling Street,Thargomindah 4492,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,WALLUMBILLA OUTPATIENTS CLINIC,310000123, ,Hospital, ,Raslie Road,Wallumbilla 4428,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,ALPHA HOSPITAL,310000131, ,Hospital, ,Gordon Street,Alpha 4724,4,Very remote,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,BARALABA HOSPITAL,310000132, ,Hospital, ,Stopford Street,Baralaba 4702,2,Outer Regional,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,BILOELA HOSPITAL,310000133, ,Hospital, ,2 Hospital Road,Biloela 4715,2,Outer Regional,25,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,BLACKWATER HOSPITAL,310000134, ,Hospital, ,Mackenzie Street,Blackwater 4717,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,EMERALD HOSPITAL,310000135, ,Hospital, ,69 Hospital Road,Emerald 4720,2,Outer Regional,37,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+QLD,GLADSTONE HOSPITAL,310000136, ,Hospital, ,Park Street,Gladstone 4680,1,Inner Regional,78,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+QLD,MOUNT MORGAN HOSPITAL,310000139, ,Hospital, ,Black Street,Mount Morgan 4714,1,Inner Regional,10,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,MOURA HOSPITAL,310000140, ,Hospital, ,14 Nott Street,Moura 4718,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,ROCKHAMPTON BASE HOSPITAL,310000141, ,Hospital, ,Canning Street,Rockhampton 4700,1,Inner Regional,246,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,SPRINGSURE HOSPITAL,310000142, ,Hospital, ,Woodbine Street,Springsure 4722,3,Remote,12,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+QLD,THEODORE HOSPITAL,310000143, ,Hospital, ,The Boulevard,Theodore 4719,2,Outer Regional,6,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,CAPRICORN COAST HOSPITAL & HEALTH SERVICE,310000144, ,Hospital, ,8 Hoskyn Drive,Yeppoon 4703,1,Inner Regional,28,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+QLD,WOORABINDA HOSPITAL,310000145, ,Hospital, ,1 Munns Drive,Woorabinda 4702,3,Remote,7,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,ARAMAC HOSPITAL,310000151, ,Hospital, ,Lodge Street,Aramac 4726,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,BARCALDINE HOSPITAL,310000152, ,Hospital, ,Oak Street,Barcaldine 4725,4,Very remote,12,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,BLACKALL HOSPITAL,310000153, ,Hospital, ,Shamrock Street,Blackall 4472,4,Very remote,16,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,BOULIA PRIMARY HEALTH CENTRE,310000154, ,Hospital, ,Wills Street,Boulia 4829,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,JUNDAH PRIMARY HEALTH CENTRE,310000155, ,Hospital, ,1 Hospital Road,Jundah 4736,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,LONGREACH HOSPITAL,310000156, ,Hospital, ,Jabiru Street,Longreach 4730,4,Very remote,31,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D3,Small remote acute
+QLD,MUTTABURRA PRIMARY HEALTH CENTRE,310000157, ,Hospital, ,Edkins Street,Muttaburra 4732,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,TAMBO PRIMARY HEALTH CENTRE,310000158, ,Hospital, ,Garden Street,Tambo 4478,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,WINTON HOSPITAL,310000159, ,Hospital, ,Bloomfield Street,Winton 4735,4,Very remote,8,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,ISISFORD PRIMARY HEALTH CENTRE,310000160, ,Hospital, ,St Helena Street,Isisford 4731,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,YARAKA CLINIC,310000161, ,Hospital, ,Jarley Street,Yaraka 4702,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,WINDORAH CLINIC,310000162, ,Hospital, ,Victoria Street,Windorah 4481,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,CLERMONT HOSPITAL,310000171, ,Hospital, ,Francis Street,Clermont 4721,3,Remote,10,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,MACKAY BASE HOSPITAL,310000172, ,Hospital, ,475 Bridge Road,Mackay 4740,1,Inner Regional,182,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,MORANBAH HOSPITAL,310000173, ,Hospital, ,Elliott Street,Moranbah 4744,2,Outer Regional,12,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,PROSERPINE HOSPITAL,310000174, ,Hospital, ,26-34 Taylor Street,Proserpine 4800,2,Outer Regional,33,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+QLD,SARINA HOSPITAL,310000175, ,Hospital, ,1 Hospital Street,Sarina 4737,2,Outer Regional,16,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,DYSART HOSPITAL,310000176, ,Hospital, ,Queen Elizabeth Drive,Dysart 4745,2,Outer Regional,9,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,AYR HOSPITAL,310000191, ,Hospital, ,2 Chippendale Street,Ayr 4807,2,Outer Regional,32,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,BOWEN HOSPITAL,310000192, ,Hospital, ,Gregory Street,Bowen 4805,2,Outer Regional,27,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,CHARTERS TOWERS HOSPITAL,310000193, ,Hospital, ,137-139 Gill Street,Charters Towers 4820,2,Outer Regional,29,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,COLLINSVILLE HOSPITAL,310000194, ,Hospital, ,Garrick Street,Collinsville 4804,3,Remote,8,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,HOME HILL HOSPITAL,310000195, ,Hospital, ,Tenth Avenue,Home Hill 4806,2,Outer Regional,14,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,INGHAM HOSPITAL,310000196, ,Hospital, ,2-16 Mcilwraith Street,Ingham 4850,2,Outer Regional,32,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,JOYCE PALMER HEALTH SERVICE,310000197, ,Hospital, ,Beach Road,Palm Island 4816,3,Remote,13,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,THE TOWNSVILLE HOSPITAL,310000200, ,Hospital, ,100 Angus Smith Drive,Douglas 4814,2,Outer Regional,624,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,ROYAL BRISBANE & WOMEN'S HOSPITAL,310000201, ,Hospital, ,Butterfield Street,Herston 4006,0,Major Cities,1024,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,ATHERTON HOSPITAL,310000211, ,Hospital, ,Corner of Louise and Jack Streets,Atherton 4883,2,Outer Regional,44,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+QLD,BABINDA HOSPITAL,310000212, ,Hospital, ,128 Munro Street,Babinda 4861,2,Outer Regional,22,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,BAMAGA HOSPITAL,310000213, ,Hospital, ,Sagaukaz Street,Bamaga 4876,4,Very remote,10,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,CAIRNS BASE HOSPITAL,310000214, ,Hospital, ,The Esplanade,Cairns 4870,2,Outer Regional,480,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+QLD,CHILLAGOE HOSPITAL,310000215, ,Hospital, ,21 Hospital Road,Chillagoe 4871,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,COOKTOWN HOSPITAL,310000216, ,Hospital, ,48 Hope Street,Cooktown 4895,3,Remote,18,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+QLD,CROYDON HOSPITAL,310000217, ,Hospital, ,Sircom Street,Croydon 4871,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,FORSAYTH HOSPITAL,310000218, ,Hospital, ,Fourth Street,Forsayth 4871,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,GEORGETOWN HOSPITAL,310000219, ,Hospital, ,High Street,Georgetown 4871,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,GORDONVALE HOSPITAL,310000220, ,Hospital, ,1-11 Highleigh Road,Gordonvale 4865,2,Outer Regional,24,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+QLD,HERBERTON HOSPITAL,310000221, ,Hospital, ,23 Grace Street,Herberton 4887,2,Outer Regional,38,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+QLD,INNISFAIL HOSPITAL,310000222, ,Hospital, ,87 Rankin Street,Innisfail 4860,2,Outer Regional,64,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+QLD,MAREEBA HOSPITAL,310000223, ,Hospital, ,21 Lloyd Street,Mareeba 4880,2,Outer Regional,48,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+QLD,MOSSMAN HOSPITAL,310000224, ,Hospital, ,9 Hospital Street,Mossman 4873,2,Outer Regional,24,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,E2,Multi-purpose services
+QLD,MOUNT GARNET OUTPATIENTS CLINIC,310000225, ,Hospital, ,2 Galena Street,Mount Garnet 4872,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,THURSDAY ISLAND HOSPITAL,310000226, ,Hospital, ,163 Douglas Street,Thursday Island 4875,4,Very remote,38,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D2,Small non-acute
+QLD,TULLY HOSPITAL,310000227, ,Hospital, ,Bryant Street,Tully 4854,2,Outer Regional,20,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+QLD,WEIPA HOSPITAL,310000228, ,Hospital, ,Lot 407 John Evans Drive,Weipa 4874,4,Very remote,14,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D3,Small remote acute
+QLD,YARRABAH HOSPITAL,310000229, ,Hospital, ,1 Bukki Road,Yarrabah 4871,2,Outer Regional,0,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+QLD,AURUKUN PRIMARY HEALTH CARE CENTRE,310000230, ,Hospital, ,Kang Kang Road,Aurukun 4871,4,Very remote,1,OT,Outpatient hospital,Yes,No,No,No,G,Un-peered and other
+QLD,HOPEVALE MEDICAL CENTRE,310000231, ,Hospital, ,Aerodrome Road,Hope Vale 4895,3,Remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,WUJAL WUJAL COMMUNITY HOSPITAL,310000232, ,Hospital, ,100 Douglas Street,Wujal Wujal 4895,3,Remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,LOCKHART RIVER PRIMARY HEALTH CARE CENTRE,310000233, ,Hospital, ,Paytam Street,Lockhart River 4871,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,BURKETOWN HEALTH CLINIC,310000241, ,Hospital, ,Hospital Road,Burketown 4830,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,CAMOOWEAL HEALTH CLINIC,310000242, ,Hospital, ,Nowranie Street,Camooweal 4828,4,Very remote,3,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,CLONCURRY HOSPITAL,310000243, ,Hospital, ,1 Musgrave Street,Cloncurry 4824,3,Remote,25,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,HUGHENDEN HOSPITAL,310000244, ,Hospital, ,14 Richmond Hill Drive,Hughenden 4821,4,Very remote,15,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+QLD,JULIA CREEK HOSPITAL,310000245, ,Hospital, ,1 Burke Street,Julia Creek 4823,4,Very remote,10,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+QLD,MOUNT ISA HOSPITAL,310000246, ,Hospital, ,30 Camooweal Street,Mount Isa 4825,3,Remote,86,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+QLD,NORMANTON HOSPITAL,310000247, ,Hospital, ,Brown Street,Normanton 4890,4,Very remote,14,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,RICHMOND HOSPITAL,310000248, ,Hospital, ,Gallagher Drive,Richmond 4822,4,Very remote,10,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,MORNINGTON ISLAND HOSPITAL,310000249, ,Hospital, ,Lardyl Street,Mornington Island 4871,4,Very remote,11,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,KARUMBA HEALTH CLINIC,310000250, ,Hospital, ,160 Walker Street,Karumba 4891,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,DAJARRA HEALTH CLINIC,310000251, ,Hospital, ,12 Matheson Street,Dajarra 4825,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,DOOMADGEE HOSPITAL,310000252, ,Hospital, ,Sharpe Street,Doomadgee 4830,4,Very remote,7,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+QLD,KOWANYAMA PRIMARY HEALTH CARE CENTRE,310000253, ,Hospital, ,Carrington Street,Kowanyama 4871,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,PORMPURAAW PRIMARY HEALTH CARE CENTRE,310000254, ,Hospital, ,Korka Street,Pormpuraaw 4871,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,COEN PRIMARY HEALTH CARE CENTRE,310000255, ,Hospital, ,Armbrust Street,Coen 4871,4,Very remote,1,VS,Very small public,No,No,No,No,G,Un-peered and other
+QLD,CAPELLA OUTPATIENTS CLINIC,310000905, ,Hospital, ,Main Street,Bollon 4488,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,CRACOW OUTPATIENTS CLINIC,310000907, ,Hospital, ,Slider Street,Capella 4702,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,DIMBULAH OUTPATIENTS CLINIC,310000908, ,Hospital, ,Fourth Avenue,Cracow 4719,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,DUARINGA OUTPATIENTS CLINIC,310000910, ,Hospital, ,3-5 Stephens Street,Dimbulah 4872,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,GLENMORGAN OUTPATIENTS CLINIC,310000912, ,Hospital, ,Corner of Elizabeth and William Streets,Duaringa 4712,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,LAURA PRIMARY HEALTH CARE CENTRE,310000915, ,Hospital, ,Queensland Country Women's Association Hall,Glenmorgan 4423,4,Very remote,1,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+QLD,MAGNETIC ISLAND HEALTH SERVICE CENTRE,310000916, ,Hospital, ,1 Gladwell Street,Laura 4871,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,MALANDA OUTPATIENTS CLINIC,310000917, ,Hospital, ,76 Sooning Street,Nelly Bay 4819,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,MEANDARRA OUTPATIENTS CLINIC,310000919, ,Hospital, ,3/15 Catherine Street,Malanda 4885,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,MILLAA MILLAA OUTPATIENTS CLINIC,310000920, ,Hospital, ,Gibson Street,Meandarra 4422,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,MORVEN OUTPATIENTS CLINIC,310000921, ,Hospital, ,45 Palm Avenue,Millaa Millaa 4886,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,RAVENSHOE OUTPATIENTS CLINIC,310000924, ,Hospital, ,Warrego Highway,Morven 4468,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,MALAKOOLA PRIMARY HEALTH CARE CENTRE,310000928, ,Hospital, ,27 Kuradilla Street,Ravenshoe 4888,4,Very remote,1,OT,Outpatient hospital,Yes,No,No,No,G,Un-peered and other
+QLD,ROBINA HOSPITAL,310000934, ,Hospital, ,313 Moun-Ding Street,Napranum 4874,0,Major Cities,454,M,Medium public acute,Yes,Yes,Yes,No,A1,Principal referral
+QLD,MOONIE OUTPATIENTS CLINIC,310000935, ,Hospital, ,Moonie Highway,Moonie 4406,2,Outer Regional,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,ISLAND MEDICAL SERVICE,310000939, ,Hospital, ,Victoria Parade,Thursday Island ,4,Very remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,GEMFIELDS OUTPATIENTS CLINIC,310000940, ,Hospital, ,984 Rubyvale Road,Sapphire 4702,3,Remote,0,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,MAPOON PRIMARY HEALTH CARE CENTRE,310000965, ,Hospital, ,Main Street,Mapoon 4874,4,Very remote,1,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+QLD,BAILLIE HENDERSON HOSPITAL,340000701, ,Hospital, ,Corner of Hogg and Tor Streets,Toowoomba 4350,1,Inner Regional,180,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+QLD,CHARTERS TOWERS REHABILITATION UNIT,340000703, ,Hospital, ,35 Gladstone Road,Charters Towers 4820,2,Outer Regional,27,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+QLD,KIRWAN MENTAL HEALTH REHABILITATION UNIT,340000715, ,Hospital, ,138 Thuringowa Drive,Kirwan 4817,2,Outer Regional,34,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+QLD,THE PARK CENTRE FOR MENTAL HEALTH,340000751, ,Hospital, ,Corner of Ellerton Drive and Wolston Park Road,Wacol 4076,0,Major Cities,176,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+SA,Hampstead Rehabilitation Centre,41CA00008, ,Hospital, ,205 Hampstead RD,Northfield 5085,0,Major Cities,153,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,E4,Rehabilitation
+SA,The Queen Elizabeth Hospital,41CA00014, ,Hospital, ,28 Woodville RD,Woodville South 5011,0,Major Cities,346.6,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+SA,Royal Adelaide Hospital,41CA00019, ,Hospital, ,North TCE,Adelaide 5000,0,Major Cities,874,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+SA,Pregnancy Advisory Centre,41CA00035, ,Hospital, ,21 Belmore TCE,Woodville 5011,0,Major Cities,10,O5,Unpeered,Yes,No,No,No,G,Un-peered and other
+SA,St. Margaret's Hospital,41CA00042, ,Hospital, ,65 Military RD,Semaphore South 5019,0,Major Cities,48,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,E4,Rehabilitation
+SA,Women's and Children's Hospital,41CW00003, ,Hospital, ,72 King William RD,North Adelaide 5006,0,Major Cities,324.8,W2,Womens and childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+SA,Central Eyre Peninsula Hospital (Wudinna),41EY00076, ,Hospital, ,16-24 Richards AV,Wudinna 5652,4,Very remote,13,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Cleve District Health and Aged Care,41EY00082, ,Hospital, ,North TCE,Cleve 5640,3,Remote,20,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Cowell District Hospital,41EY00088, ,Hospital, ,17 South TCE,Cowell 5602,3,Remote,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Cummins and District Memorial Hospital,41EY00094, ,Hospital, ,19-21 Tumby Bay RD,Cummins 5631,3,Remote,19,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Elliston Hospital,41EY00097, ,Hospital, ,4-6 Memorial DR,Elliston 5670,4,Very remote,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Kimba District Health and Aged Care,41EY00121, ,Hospital, ,15 Martin TCE,Kimba 5641,3,Remote,8,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+SA,Ceduna District Health Service,41EY00169, ,Hospital, ,3 Eyre HWY,Ceduna 5690,4,Very remote,21,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,E2,Multi-purpose services
+SA,Port Lincoln Health Service,41EY00202, ,Hospital, ,39 Oxford TCE,Port Lincoln 5606,3,Remote,50,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D3,Small remote acute
+SA,Streaky Bay Hospital,41EY00232, ,Hospital, ,1 Flinders DR,Streaky Bay 5680,3,Remote,19,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Tumby Bay Hospital and Health Services,41EY00241, ,Hospital, ,8-11 The ESP,Tumby Bay 5605,3,Remote,15,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+SA,Gumeracha District Soldiers Memorial Hospital,41HM00106, ,Hospital, ,2 Albert ST,Gumeracha 5233,1,Inner Regional,17,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+SA,Kangaroo Island Health Service,41HM00112, ,Hospital, ,3 The ESP,Kingscote 5223,3,Remote,15,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+SA,Karoonda & District Soldiers' Memorial Hospital,41HM00118, ,Hospital, ,13 Stokes RD,Karoonda 5307,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Lameroo District Health Services,41HM00127, ,Hospital, ,1A Vardon TCE,Lameroo 5302,3,Remote,11,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+SA,Tailem Bend District Hospital,41HM00136, ,Hospital, ,74 Princes HWY,Tailem Bend 5260,1,Inner Regional,9,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+SA,The Mannum District Hospital,41HM00145, ,Hospital, ,Parker ST,Mannum 5238,1,Inner Regional,13,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Meningie & Districts Memorial Hospital & Health Services,41HM00151, ,Hospital, ,2 South TCE,Meningie 5264,2,Outer Regional,14,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+SA,Mount Barker District Soldiers' Memorial Hospital,41HM00160, ,Hospital, ,Wellington RD,Mount Barker 5251,1,Inner Regional,40,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+SA,Mount Pleasant District Hospital,41HM00166, ,Hospital, ,28 Hospital RD,Mount Pleasant 5235,1,Inner Regional,27,S2,Other small public acute,Yes,No,Yes,No,D2,Small non-acute
+SA,The Murray Bridge Soldiers' Memorial Hospital,41HM00172, ,Hospital, ,96 Swanport RD,Murray Bridge 5253,1,Inner Regional,58,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+SA,Pinnaroo Soldiers' Memorial Hospital,41HM00193, ,Hospital, ,Bundey TCE,Pinnaroo 5304,3,Remote,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,South Coast District Hospital,41HM00223, ,Hospital, ,Bay RD,Victor Harbor 5211,1,Inner Regional,42,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+SA,Strathalbyn and District Health Service,41HM00229, ,Hospital, ,14 Alfred PL,Strathalbyn 5255,1,Inner Regional,25,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+SA,Booleroo Centre District Hospital and Health Services,41MN00067, ,Hospital, ,Stephens ST,Booleroo Centre 5482,2,Outer Regional,23,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Crystal Brook and District Hospital,41MN00091, ,Hospital, ,Edmund TCE,Crystal Brook 5523,2,Outer Regional,13,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+SA,Jamestown Hospital & Health Service,41MN00109, ,Hospital, ,South TCE,Jamestown 5491,2,Outer Regional,22,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+SA,Laura & Districts Hospital,41MN00130, ,Hospital, ,33 Mill ST,Laura 5480,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,D2,Small non-acute
+SA,Orroroo & District Health Service,41MN00184, ,Hospital, ,Pekina RD,Orroroo 5431,2,Outer Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Peterborough Soldiers' Memorial Hospital,41MN00190, ,Hospital, ,23 Hurlstone ST,Peterborough 5422,2,Outer Regional,22,S2,Other small public acute,Yes,No,Yes,No,D2,Small non-acute
+SA,Port Broughton District Hospital & Health Services,41MN00199, ,Hospital, ,Bay ST,Port Broughton 5522,2,Outer Regional,20,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+SA,Port Pirie Regional Health Service,41MN00205, ,Hospital, ,Alexander ST,Port Pirie 5540,2,Outer Regional,68.7,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+SA,McLaren Vale & Districts War Memorial Hospital Inc,41MO00036, ,Hospital, ,Aldersley ST,McLaren Vale 5171,0,Major Cities,0,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+SA,Lyell McEwin Hospital,41NA00027, ,Hospital, ,Haydown RD,Elizabeth Vale 5112,0,Major Cities,308,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+SA,Modbury Hospital,41NA00030, ,Hospital, ,41-69 Smart RD,Modbury 5092,0,Major Cities,166,L,Large public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+SA,Andamooka Outpost Hospital,41NF00046, ,Hospital, , ,Andamooka 5722,4,Very remote,2,OT,Outpatient hospital,No,No,No,No,G,Un-peered and other
+SA,Coober Pedy Hospital & Health Services,41NF00085, ,Hospital, ,Lot 89 Hospital RD,Coober Pedy 5723,4,Very remote,15,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+SA,Hawker Memorial Hospital,41NF00103, ,Hospital, ,Cradock RD,Hawker 5434,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Leigh Creek Health Services,41NF00133, ,Hospital, ,Black Oak DR,Leigh Creek 5731,4,Very remote,7,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Royal District Nursing Service of SA (Marree Health Services),41NF00148, ,Hospital, ,Lot 43 First ST,Marree 5733,4,Very remote,0,OT,Outpatient hospital,Yes,No,No,No,G,Un-peered and other
+SA,Oodnadatta Hospital,41NF00181, ,Hospital, ,Lot 7 First ST,Oodnadatta 5734,4,Very remote,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Port Augusta Hospital & Regional Health Services,41NF00196, ,Hospital, ,71 Hospital RD,Port Augusta 5700,2,Outer Regional,61,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+SA,Quorn Health Services,41NF00208, ,Hospital, ,Hospital RD,Quorn 5433,2,Outer Regional,11,S2,Other small public acute,Yes,No,Yes,No,D1,Small regional acute
+SA,Roxby Downs Health Services,41NF00217, ,Hospital, ,16-28 Burgoyne ST,Roxby Downs 5725,3,Remote,10,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+SA,Woomera Community Hospital,41NF00248, ,Hospital, ,Dewrang AV,Woomera 5720,4,Very remote,10,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Whyalla Hospital & Health Services,41NF00249, ,Hospital, ,20 Wood TCE,Whyalla 5600,2,Outer Regional,99,M,Medium public acute,Yes,Yes,Yes,No,C1,Medium (group 1)
+SA,Riverland Regional Health Service - Barmera Hospital,41RI00055, ,Hospital, ,Hawdon ST,Barmera 5345,2,Outer Regional,20,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+SA,Riverland Regional Health Service - Berri Hospital,41RI00058, ,Hospital, ,Maddern ST,Berri 5343,2,Outer Regional,47,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+SA,Loxton Hospital Complex,41RI00139, ,Hospital, ,Drabsch ST,Loxton 5333,2,Outer Regional,22,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Renmark Paringa District Hospital,41RI00211, ,Hospital, ,Ral Ral AV,Renmark 5341,2,Outer Regional,23,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Waikerie Hospital & Health Services,41RI00244, ,Hospital, ,1 Lawrie TCE,Waikerie 5330,2,Outer Regional,29,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+SA,Flinders Medical Centre,41SA00005, ,Hospital, ,Flinders DR,Bedford Park 5042,0,Major Cities,589.5,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+SA,Repatriation General Hospital,41SA00018, ,Hospital, ,216 Daws RD,Daw Park 5041,0,Major Cities,300.3,L,Large public acute,Yes,No,Yes,Yes,B1,Large Major cities
+SA,Noarlunga Public Hospital,41SA00033, ,Hospital, ,Alexander Kelly DR,Noarlunga Centre 5168,0,Major Cities,80.2,M,Medium public acute,Yes,Yes,Yes,Yes,C1,Medium (group 1)
+SA,Bordertown Memorial Hospital,41SE00070, ,Hospital, ,23 South TCE,Bordertown 5268,2,Outer Regional,49,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+SA,Kingston Soldiers' Memorial Hospital,41SE00124, ,Hospital, ,Cnr Cooke & Young ST,Kingston SE 5275,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+SA,Millicent & District Hospital & Health Services,41SE00154, ,Hospital, ,Mount Gambier RD,Millicent 5280,2,Outer Regional,30,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Mount Gambier and Districts Health Service,41SE00163, ,Hospital, ,276 Wehl ST,Mount Gambier 5290,2,Outer Regional,90,M,Medium public acute,Yes,Yes,Yes,No,B2,Large regional and remote
+SA,Naracoorte Health Service,41SE00175, ,Hospital, ,101 Jenkins TCE,Naracoorte 5271,2,Outer Regional,61,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+SA,Penola War Memorial Hospital,41SE00187, ,Hospital, ,18 Church ST,Penola 5277,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,South East Regional CHS,41SE00224, ,Hospital, , ,,,,2,O5,Unpeered,No,No,No,No,G,Un-peered and other
+SA,Gawler Health Service,41WK00020, ,Hospital, ,21 Hutchinson RD,Gawler East 5118,0,Major Cities,62,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,C2,Medium (group 2)
+SA,Angaston District Hospital,41WK00049, ,Hospital, ,29 North ST,Angaston 5353,1,Inner Regional,32,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Balaklava Soldier's Memorial District Hospital,41WK00052, ,Hospital, ,16 War Memorial DR,Balaklava 5461,1,Inner Regional,31,S2,Other small public acute,Yes,No,Yes,No,D1,Small regional acute
+SA,Burra Hospital,41WK00073, ,Hospital, ,46 Commercial ST,Burra 5417,2,Outer Regional,7,VS,Very small public,Yes,No,No,No,D1,Small regional acute
+SA,Clare Hospital,41WK00079, ,Hospital, ,47 Farrel Flat RD,Clare 5453,2,Outer Regional,33,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Eudunda Hospital,41WK00100, ,Hospital, ,40 Ward ST,Eudunda 5374,1,Inner Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Kapunda Hospital,41WK00115, ,Hospital, ,26 Nash ST,Kapunda 5373,1,Inner Regional,27,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Central Yorke Peninsula Hospital (Maitland),41WK00142, ,Hospital, ,68 Robert ST,Maitland 5573,2,Outer Regional,33,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Riverton District Soldiers' Memorial Hospital,41WK00214, ,Hospital, ,23 Moorhouse TCE,Riverton 5412,1,Inner Regional,14,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+SA,Snowtown Hospital,41WK00220, ,Hospital, ,South TCE,Snowtown 5520,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+SA,Southern Yorke Peninsula Health Service (Yorketown),41WK00227, ,Hospital, ,19 Waterloo Bay RD,Yorketown 5576,3,Remote,26,S2,Other small public acute,Yes,No,Yes,No,D3,Small remote acute
+SA,Tanunda War Memorial Hospital,41WK00235, ,Hospital, ,15 Mill ST,Tanunda 5352,1,Inner Regional,22,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+SA,Northern Yorke Peninsula Health Service (Wallaroo),41WK00247, ,Hospital, ,1 Ernest TCE,Wallaroo 5556,2,Outer Regional,21,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+SA,Glenside Hospital,44CA00300, ,Hospital, ,226 Fullarton RD,Glenside 5065,0,Major Cities,125,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+SA,Oakden Hospital,44NA00028, ,Hospital, ,200 Fosters RD,Oakden 5086,0,Major Cities,24,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+TAS,Royal Hobart Hospital,611000001, ,Hospital, ,48 Liverpool Street,Hobart 7000,1,Inner Regional,486,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+TAS,Huon Hospital,611000033, ,Hospital, ,3278 Huon Highway,Franklin 7113,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,New Norfolk Hospital,611000035, ,Hospital, ,3 Richmond Street,New Norfolk 7140,1,Inner Regional,14,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+TAS,Esperance MPC,611000060, ,Hospital, ,Chapman Avenue,Dover 7117,2,Outer Regional,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,Tasman MPC,611000061, ,Hospital, ,1614 Nubeena Road,Nubeena 7184,2,Outer Regional,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,May Shaw District Nursing Centre,611000062, ,Hospital, ,37 Wellington Street,Swansea 7190,3,Remote,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,Midlands MPC,611000064, ,Hospital, ,13 Church Street,Oatlands 7120,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,Launceston General Hospital,612000002, ,Hospital, ,274-280 Charles Street,Launceston 7250,1,Inner Regional,340,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+TAS,Beaconsfield MPS,612000031, ,Hospital, ,13 Bolton Street,Beaconsfield 7270,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,Campbell Town MPS,612000032, ,Hospital, ,70 High Street,Campbell Town 7210,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,NESM - Scottsdale Hospital,612000036, ,Hospital, ,Cameron Street,Scottsdale 7260,2,Outer Regional,20,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D2,Small non-acute
+TAS,St Helens District Hospital,612000039, ,Hospital, ,Circassion Street,St Helens 7216,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+TAS,St Marys CHC,612000040, ,Hospital, ,Gardiners Creek Road,St Marys 7215,2,Outer Regional,8,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+TAS,Toosey Memorial - Longford,612000042, ,Hospital, ,10 Archer Street,Longford 7301,1,Inner Regional,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,Flinders Island MPC,612000045, ,Hospital, ,James Street,Whitemark 7255,4,Very remote,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+TAS,Deloraine Hospital,612000046, ,Hospital, ,East Barrack Street,Deloraine 7304,2,Outer Regional,20,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+TAS,George Town Hospital,612000048, ,Hospital, ,47 Anne Street,George Town 7253,2,Outer Regional,15,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+TAS,NWRH_Burnie,613000003, ,Hospital, ,23 Brickport Road,Burnie 7320,2,Outer Regional,115,L,Large public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+TAS,King Is MPC,613000034, ,Hospital, ,Edward Street,Currie 7256,4,Very remote,6,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+TAS,Smithton Hospital,613000041, ,Hospital, ,74 Brittons Road,Smithton 7330,2,Outer Regional,13,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+TAS,Health West,613000044, ,Hospital, ,Orr Street,Queenstown 7467,3,Remote,10,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+TAS,Mersey,613000045, ,Hospital, ,Bass Highway,Latrobe 7307,2,Outer Regional,89,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+TAS,Tasmania_public_psychiatric,644000058, ,Hospital, , ,Various,1,Inner Regional,10,Ps,Psychiatric public,No,No,No,No, ,Unknown
+VIC,Western District Health Service [Hamilton],210101071,NET010567,Campus,,20 Foster Street,Hamilton 3300,1,Inner Regional,67.5,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,No,C1,Medium (group 1)
+VIC,Western District Health Service [Penshurst],210101072,NET010567,Campus,,146 Cobb Street,Penshurst 3289,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Colac Area Health,210101130, ,Hospital,,2-28 Connor Street,Colac 3250,1,Inner Regional,37.33,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Hesse Rural Health Service [Winchelsea],210101500, ,Hospital,,8 Gosney Street,Winchelsea 3241,1,Inner Regional,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Otway Health & Community Services [Apollo Bay],210102020, ,Hospital,,37-43 Mclachlan Street,Apollo Bay 3233,1,Inner Regional,2.92,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+VIC,Geelong Hospital,210102050,NET010441,Campus,,Bellerine Street,Geelong 3220,0,Major Cities,431,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Casterton Memorial Hospital,210102090, ,Hospital,,63-69 Russell Street,Casterton 3311,2,Outer Regional,15,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+VIC,Western District Health Service [Coleraine District Health Service],210102140,NET010567,Campus,,119 McKebery Street,Coleraine 3315,2,Outer Regional,10,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,South West Healthcare [Warrnambool],210102160,NET011268,Campus,,Ryot Street,Warrnambool 3280,1,Inner Regional,166.92,L,Large public acute,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,Beaufort & Skipton Health Service [Skipton],210102230,NET003609,Campus,,Blake Street,Skipton 3361,1,Inner Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Heywood Rural Health,210102350, ,Hospital,,21 Barclay Street,Heywood 3304,2,Outer Regional,5,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Timboon & District Healthcare Service,210102360, ,Hospital,,21 Hospital Road,Timboon 3268,2,Outer Regional,13.08,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+VIC,Moyne Health Services [Port Fairy],210102450, ,Hospital,,30-36 Villiers Street,Port Fairy 3284,1,Inner Regional,15,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Portland District Health,210102460, ,Hospital,,Bentinck Street,Portland 3305,2,Outer Regional,53,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Lorne Community Hospital,210102550, ,Hospital,,1 Albert Street,Lorne 3232,1,Inner Regional,4,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+VIC,Grace McKellar Centre [Geelong],210103040,NET010441,Campus,,45-95 Ballarat Road,North Geelong 3215,0,Major Cities,100,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,G,Un-peered and other
+VIC,South West Healthcare [Camperdownl],210103080,NET011268,Campus,,9 Robinson Street,Camperdown 3260,1,Inner Regional,25,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Terang & Mortlake Health Service [Terang],210103350, ,Hospital,,13 Austin Avenue,Terang 3264,1,Inner Regional,26,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,East Grampians Health Service [Ararat],210201101,NET003301,Campus,,Lot 5B Girdlestone Street,Ararat 3377,1,Inner Regional,43,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,East Grampians Health Service [Willaura],210201102,NET003301,Campus,,Delacombe Way,Willaura 3379,2,Outer Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Rural Northwest Health [Warracknabeal],210201571,NET011011,Campus,,18 Dimboola Road,Warracknabeal 3393,2,Outer Regional,15.33,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Rural Northwest Health [Hopetoun],210201572,NET011011,Campus,,12 Mitchell Place,Hopetoun 3396,3,Remote,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Ballarat Health Services [Base Campus],210202010,NET005647,Campus,,1 Dummond Street North,Ballarat Central 3350,1,Inner Regional,244.92,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Ballarat Health Services [Queen Elizabeth Campus],210202070,NET005647,Campus,,102 Ascot Street,Ballarat 3350,1,Inner Regional,92,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,D2,Small non-acute
+VIC,Wimmera Base Hospital [Horsham],210202170,NET003595,Campus,,83 Baillie Street,Horsham 3400,2,Outer Regional,81,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,Dunmunkle Health Services [Murtoa],210202210, ,Hospital,,89 Cromie Street,Rupanyup 3388,2,Outer Regional,2,OT,Outpatient hospital,Yes,No,No,No,G,Un-peered and other
+VIC,Stawell Regional Health,210202260, ,Hospital,,27-29 Sloane Street,Stawell 3380,1,Inner Regional,36,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,West Wimmera Health Service [Nhill],210202371,NET003592,Campus,,45 Nelson Street,Nhill 3418,2,Outer Regional,23.5,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,West Wimmera Health Service [Kaniva],210202372,NET003592,Campus,,9 Farmers Street,Kaniva 3419,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,West Wimmera Health Service [Jeparit],210202373,NET003592,Campus,,2 Charles Street,Jeparit 3423,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,West Wimmera Health Service [Rainbow],210202374,NET003592,Campus,,2 Swinbourne Avenue,Rainbow 3424,3,Remote,6.58,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,East Wimmera Health Service [St Arnaud],210202480,NET010433,Campus,,52 North Western Road,St Arnaud 3478,2,Outer Regional,16.25,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Djerriwarrh Health Service [Bacchus Marsh],210203020,NET003020,Campus,,29-35 Grant Street,Bacchus Marsh 3340,1,Inner Regional,45,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Beaufort & Skipton Health Service [Beaufort],210203120,NET003609,Campus,,28 Havelock Street,Beaufort 3373,1,Inner Regional,10,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Dimboola District Hospital,210203180,NET003595,Campus,,32-36 Anderson Street,Dimboola 3414,2,Outer Regional,4,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+VIC,Edenhope & District Hospital,210203240, ,Hospital,,128-134 Elizabeth Street,Edenhope 3318,2,Outer Regional,18.33,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Daylesford District Hospital,210204161,NET010434,Campus,,13 Hospital Street,Daylesford 3460,1,Inner Regional,21,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Creswick District Hospital,210204162,NET010434,Campus,,1 Napier Street,Creswick 3363,1,Inner Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Bendigo Hospital The,210301021,NET003292,Campus,,62 Lucan Street,Bendigo 3550,1,Inner Regional,252.67,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Bendigo Health Care Group [Anne Caudle],210301022,NET003292,Campus,,100 Barnard Street,Bendigo 3550,1,Inner Regional,97.08,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,D2,Small non-acute
+VIC,Goulburn Valley Health [Waranga],210301123,NET003297,Campus,,14 Coyle Street,Rushworth 3612,1,Inner Regional,12,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Kyabram & District Health Service,210301260, ,Hospital,,88 Fenaughty Street,Kyabram 3620,1,Inner Regional,45.67,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Kyneton District Health Service,210301270, ,Hospital,,7-25 Caroline Chisholm Drive,Kyneton 3444,1,Inner Regional,18,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Heathcote Health,210301340, ,Hospital,,39 Hospital Street,Heathcote 3523,1,Inner Regional,8.92,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Maryborough District Health Service [Maryborough],210301351,NET003312,Campus,,75-87 Clarendon Street,Maryborough 3465,1,Inner Regional,43.17,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Maryborough District Health Service [Dunolly],210301352,NET003312,Campus,,20 Havelock Street,Dunolly 3472,1,Inner Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Swan Hill District Health [Swan Hill],210301491,NET003318,Campus,,48 Splatt Street,Swan Hill 3585,2,Outer Regional,38.75,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,No,C2,Medium (group 2)
+VIC,Swan Hill District Health [Nyah],210301492,NET003318,Campus,,Monash Avenue,Nyah West 3595,2,Outer Regional,3,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,East Wimmera Health Service [Wycheproof],210301560,NET010433,Campus,,19 Grandview Street,Wycheproof 3527,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Cohuna District Hospital,210302130, ,Hospital,,144-158 King George Street,Cohuna 3568,2,Outer Regional,16,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Echuca Regional Health,210302180, ,Hospital,,9-27 Francis Street,Echuca 3564,1,Inner Regional,65.08,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,No,C1,Medium (group 1)
+VIC,Kerang District Health,210302240, ,Hospital,,13 Burgoyne Street,Kerang 3579,2,Outer Regional,24,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Mildura Base Hospital,210302320, ,Hospital,,Ontario Avenue,Mildura 3502,2,Outer Regional,128,L,Large public acute,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,Mallee Track Health & Community Service,210302390, ,Hospital,,28 Britt Street,Ouyen 3490,2,Outer Regional,1.83,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+VIC,Maldon Hospital,210302590, ,Hospital,,Chapel Street,Maldon 3463,1,Inner Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Manangatang & District Hospital,210302660,210303130,Campus,,37 Pioneer Street,Manangatang 3546,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Boort District Health,210303060, ,Hospital,,31 Kiniry Street,Boort 3537,2,Outer Regional,9,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+VIC,Robinvale District Health Services,210303130, ,Hospital,,128-132 Latje Road,Robinvale 3549,2,Outer Regional,14,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+VIC,Rochester & Elmore District Health Service,210303140, ,Hospital,,1 Pascoe Street,Rochester 3561,1,Inner Regional,12,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,East Wimmera Health Service [Donald],210303190,NET010433,Campus,,7 Aitken Avenue,Donald 3480,2,Outer Regional,15.25,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Inglewood & District Health Service,210303370, ,Hospital,,3 Hospital Street,Inglewood 3517,1,Inner Regional,8,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+VIC,East Wimmera Health Service [Birchip],210304120,NET010433,Campus,,26 Duncan Street,Birchip 3483,2,Outer Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,East Wimmera Health Service [Charlton],210304130,NET010433,Campus,,4 Menzies Street,Charlton 3525,2,Outer Regional,0,VS,Very small public,No,No,No,No,G,Un-peered and other
+VIC,Castlemaine Health,210305010, ,Hospital,,142 Cornish Street,Castlemaine 3450,1,Inner Regional,54.66,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Sea Lake & District,210307270,210302390,Campus,,33-43 McClelland Avenue,Sea Lake 3533,2,Outer Regional,4,O5,Unpeered,No,No,No,No,G,Un-peered and other
+VIC,Goulburn Valley Health [Shepparton],210401121,NET003297,Campus,,2 Graham Street,Shepparton 3630,1,Inner Regional,203.09,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Goulburn Valley Health [Tatura],210401122,NET003297,Campus,,64-68 Park Street,Tatura 3616,1,Inner Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Northeast Health Wangaratta,210401150, ,Hospital,,35-47 Green Street,Wangaratta 3677,1,Inner Regional,141.75,L,Large public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+VIC,Tallangatta Health Service,210401290, ,Hospital,,25 Barree Street,Tallangatta 3700,2,Outer Regional,15,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Albury Wodonga Health - Wodonga Camps,210401660,NET003485,Campus,,69 Vermont Street,Wodonga 3690,1,Inner Regional,110.58,M,Medium public acute,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,Yarrawonga Health,210401780, ,Hospital,,33 Piper Street,Yarrawonga 3730,1,Inner Regional,29,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Alpine Health [Myrtleford],210401881,NET005618,Campus,,30 O'Donnell Avenue,Myrtleford 3736,1,Inner Regional,15,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+VIC,Alpine Health [Bright],210401882,NET005618,Campus,,36-42 Cobden Street,Bright 3741,2,Outer Regional,9,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,E2,Multi-purpose services
+VIC,Alpine Health [Mount Beauty],210401883,NET005618,Campus,,10 Hollonds Street,Mt Beauty 3699,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+VIC,Upper Murray Health & Community Services [Corryong],210402150, ,Hospital,,20 Kiell Street,Corryong 3707,2,Outer Regional,10,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+VIC,Seymour District Memorial Hospital,210402190, ,Hospital,,1 Brettoneaux Street,Seymour 3660,1,Inner Regional,30,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Mansfield District Hospital,210402670, ,Hospital,,53 Highett Street,Mansfield 3722,2,Outer Regional,24.25,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Alexandra District Hospital,210403010, ,Hospital,,20 Cooper Street,Alexandra 3714,1,Inner Regional,31,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Numurkah & District Health Service,210403030, ,Hospital,,2 Katamatite Road,Numurkah 3636,1,Inner Regional,3.33,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+VIC,Kilmore & District Hospital The,210403460, ,Hospital,,Rutledge Street,Kilmore 3764,1,Inner Regional,28.42,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Yea & District Memorial Hospital,210403590, ,Hospital,,45 Station Street,Yea 3717,1,Inner Regional,10,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+VIC,Nathalia District Hospital,210404010, ,Hospital,,36-44 McDonnell Street,Nathalia 3638,1,Inner Regional,6,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Benalla & District Memorial Hospital,210404050, ,Hospital,,45-53 Coster Street,Benalla 3672,1,Inner Regional,56.84,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Beechworth Health Service,210404460, ,Hospital,,52 Sydney Road,Beechworth 3747,1,Inner Regional,13,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Cobram District Hospital,210405120, ,Hospital,,24-32 Broadway Street,Cobram 3644,1,Inner Regional,17.5,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Bairnsdale Regional Health Service,210501040, ,Hospital,,122 Day Street,Bairnsdale 3875,2,Outer Regional,95.67,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,West Gippsland Healthcare Group [Warragul],210501580, ,Hospital,,41 Landsborough Street,Warragul 3820,1,Inner Regional,91,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+VIC,Bass Coast Regional Health,210501670, ,Hospital,,235 Graham Street,Wonthaggi 3995,1,Inner Regional,50.59,S1,Small public acute with surgery/obstetrics,Yes,Yes,No,No,C2,Medium (group 2)
+VIC,Yarram & District Health Service,210501770, ,Hospital,,85-91 Commercial Road,Yarram 3971,1,Inner Regional,22,S2,Other small public acute,Yes,No,No,No,D1,Small regional acute
+VIC,Omeo District Health,210502040, ,Hospital,,12 Easton Street,Omeo 3898,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Central Gippsland Health Service [Sale],210502060,NET011269,Campus,,155 Guthridge Parade,Sale 3850,1,Inner Regional,81.34,L,Large public acute,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,Korumburra Hospital,210502251,NET003323,Campus,,69-75 Bridge Street,Korumburra 3950,1,Inner Regional,15,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Leongatha Memorial Hospital,210502252,NET003323,Campus,,66 Koonawarra Road,Leongatha 3953,1,Inner Regional,37,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C2,Medium (group 2)
+VIC,Latrobe Regional Hospital [Traralgon],210502440, ,Hospital,,10 Village Avenue,Traralgon 3844,1,Inner Regional,239.83,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Central Gippsland Health Service [Maffra],210502580,NET011269,Campus,,48 Kent Street,Maffra 3860,1,Inner Regional,9,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+VIC,South Gippsland Hospital [Foster],210504240, ,Hospital,,87 Station Road,Foster 3960,1,Inner Regional,16,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D1,Small regional acute
+VIC,Orbost Regional Health,210505050, ,Hospital,,104 Boundary Road,Orbost 3888,2,Outer Regional,16.75,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,E2,Multi-purpose services
+VIC,Box Hill Hospital,210801050,NET011518,Campus,,51 Nelson Road,Box Hill 3128,0,Major Cities,348.25,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Monash Medical Centre [Clayton],210801170,NET003289,Campus,,246 Clayton Road,Clayton 3168,0,Major Cities,589.42,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Maroondah Hospital [East Ringwood],210801210,NET011518,Campus,,1-15 Mt Dandenong Road,Ringwood East 3135,0,Major Cities,263.91,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Angliss Hospital,210801590,NET011518,Campus,,Albert Street,Upper Ferntree Gully 3156,0,Major Cities,170.33,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+VIC,St George's Health Service- Aged Care,210801700,210A01450,Campus,,283 Cotham Road,Kew 3101,0,Major Cities,124,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,D2,Small non-acute
+VIC,Caritas Christi Hospice Ltd [Kew],210802080,210A01450,Campus,,104 Studley Park Road,Kew 3101,0,Major Cities,28,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+VIC,Mercy Health - O'Connell Family Centre,210802100,NET003388,Campus,,6 Mont Albert Road,Canterbury 3126,0,Major Cities,20,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+VIC,Peter James Centre The (East Burwood),210802120,NET011518,Campus,,321-345 Burwood Highway,Forest Hill 3131,0,Major Cities,136.99,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,C2,Medium (group 2)
+VIC,Wantirna Health,210802330,NET011518,Campus,,251 Mountain Highway,Wantirna 3152,0,Major Cities,57.67,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+VIC,Royal Talbot Rehabilitation Centre [Kew],210803220,NET003399,Campus,,1 Yarra Boulevard,Kew 3101,0,Major Cities,76.58,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,G,Un-peered and other
+VIC,Healesville and District Hospital,210803330,NET011518,Campus,,377 Maroondah Highway,Healesville 3777,1,Inner Regional,19,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,D2,Small non-acute
+VIC,Yarra Ranges Health,210803690,NET011518,Campus,,25 Market Street,Lilydale 3140,0,Major Cities,16,O4,Other day procedure hospital,Yes,No,No,No,G,Un-peered and other
+VIC,Monash Medical Centre [Moorabbin],210901220,NET003289,Campus,,823-865 Centre Road,East Bentleigh 3165,0,Major Cities,110.83,L,Large public acute,Yes,No,Yes,Yes,B1,Large Major cities
+VIC,Rosebud Hospital,210901250,NET003285,Campus,,1527 Point Nepean Road,Rosebud 3939,0,Major Cities,71,M,Medium public acute,Yes,Yes,No,No,C2,Medium (group 2)
+VIC,Sandringham & District Memorial Hospital,210901360,NET011519,Campus,,193 Bluff Road,Sandringham 3191,0,Major Cities,89.09,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+VIC,Caulfield General Medical Centre,210901370,NET011519,Campus,,260-294 Kooyong Road,Caulfield 3162,0,Major Cities,216.17,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,C2,Medium (group 2)
+VIC,Kooweerup Regional Health Service,210901480, ,Hospital,,215 Rossiter Road,Koo Wee Rup 3981,1,Inner Regional,12,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+VIC,Kingston Centre [Cheltenham],210902030,NET003289,Campus,,400 Warrigal Road,Cheltenham 3192,0,Major Cities,175,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,D2,Small non-acute
+VIC,Dandenong Campus,210902111,NET003289,Campus,,105-135 David Street,Dandenong 3175,0,Major Cities,449.5,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Cranbourne Integrated Care Centre,210902112,NET003289,Campus,,140-154 Sladen Street,Cranbourne 3977,0,Major Cities,21.92,O4,Other day procedure hospital,Yes,No,Yes,No,C2,Medium (group 2)
+VIC,Frankston Hospital,210902220,NET003285,Campus,,2 Hastings Road,Frankston 3199,0,Major Cities,375.5,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Calvary Health Care Bethlehem Ltd,210903050, ,Hospital,,476 Kooyong Road,Caulfield 3162,0,Major Cities,68.67,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+VIC,Queen Elizabeth Centre [Noble Park],210903110, ,Hospital,,53 Thomas Street,Noble Park 3174,0,Major Cities,37.67,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+VIC,Casey Hospital,210903660,NET003289,Campus,,52 Kangan Drive,Berwick 3806,0,Major Cities,220.75,M,Medium public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Mount Eliza Aged Care & Rehabilitation Service,210904080,NET003285,Campus,,33 Jacksons Road,Mount Eliza 3930,0,Major Cities,0,O5,Unpeered,No,No,No,No,G,Un-peered and other
+VIC,Golf Links Road Rehabilitation Centre and PCU,210904083,NET003285,Campus,,125 Golf Links Road,Frankston 3199,0,Major Cities,73.33,N1,Non-acute public-rehabilitation and GEM,Yes,No,No,No,G,Un-peered and other
+VIC,The Mornington Centre,210904084,NET003285,Campus,,Corner of Tyalla Grove and Separation Street,Mornington 3931,0,Major Cities,63,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,G,Un-peered and other
+VIC,Alfred The,210A01010,NET011519,Campus,,55 Commercial Road,Prahran 3181,0,Major Cities,674.08,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Austin Hospital [Heidelberg],210A01031,NET003399,Campus, ,145 Studley Road,Heidelberg 3084,0,Major Cities,596.75,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Austin Hospital [Heidelberg Repatriation Hospital],210A01032,NET003399,Campus, ,300 Waterdale Road,Heidelberg West 3081,0,Major Cities,193.91,S1,Small public acute with surgery/obstetrics,Yes,No,No,No,C1,Medium (group 1)
+VIC,Bundoora Extended Care Centre,210A01090,NET011517,Campus, ,1231 Plenty Road,Bundoora 3083,0,Major Cities,74.33,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,D2,Small non-acute
+VIC,Mercy Hospital for Women,210A01160,NET003388,Campus, ,163 Studley Road,Heidelberg 3084,0,Major Cities,152.91,W1,Womens,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Western Hospital [Footscray],210A01180,NET011515,Campus, ,160 Gordon Street,Footscray 3011,0,Major Cities,343.83,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Royal Children's Hospital [Parkville],210A01191, ,Hospital, ,50 Flemington Road,Parkville 3052,0,Major Cities,306.83,W3,Childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+VIC,Royal Women's Hospital [Carlton],210A01230, ,Hospital, ,20 Flemington Road,Parkville 3052,0,Major Cities,196,W1,Womens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+VIC,"Royal Victorian Eye & Ear Hospital, The",210A01240, ,Hospital, ,32 Gisborne Street,East Melbourne 3002,0,Major Cities,55.75,O3,Other public acute specialised,Yes,Yes,Yes,Yes,B1,Large Major cities
+VIC,Northern Hospital The [Epping],210A01280,NET011517,Campus, ,185 Cooper Street,Epping 3076,0,Major Cities,365.09,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Mercy Public Hospital Inc.[Werribee],210A01320,NET003388,Campus, ,300 Princes Highway,Werribee 3030,0,Major Cities,172.67,M,Medium public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+VIC,Orygen Inpatient Unit,210A01332,NET011520,Campus, ,35 Mavis Street,Footscray 3011,0,Major Cities,16,Ps,Psychiatric public,Yes,No,No,No,G,Un-peered and other
+VIC,Royal Melbourne Hospital [Parkville],210A01334,NET011520,Campus, ,300 Grattan Street,Parkville 3050,0,Major Cities,670.75,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Royal Melbourne Hospital- Royal Park Campus,210A01335,NET011520,Campus, ,34-54 Poplar Road,Parkville 3052,0,Major Cities,114,N2,Non-acute public-mixed subacute and non-acute,Yes,No,No,No,D2,Small non-acute
+VIC,Sunshine Hospital,210A01390,NET011515,Campus, ,176 Furlong Road,St Albans 3021,0,Major Cities,401.83,M,Medium public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,St Vincent's Hospital [Fitzroy],210A01450, ,Hospital, ,41 Victoria Parade,Fitzroy 3065,0,Major Cities,541.92,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+VIC,Williamstown Hospital,210A01460,NET011515,Campus, ,77B Railway Crescent,Williamstown 3016,0,Major Cities,83.75,M,Medium public acute,Yes,Yes,Yes,No,C2,Medium (group 2)
+VIC,Peter MacCallum Cancer Institute,210A01550, ,Hospital, ,2 St Andrews Place,East Melbourne 3002,0,Major Cities,129.42,O3,Other public acute specialised,Yes,No,Yes,Yes,B1,Large Major cities
+VIC,Tweddle Child & Family Health Centre [Footscray],210A01900, ,Hospital, ,53 Adelaide Street,Footscray 3011,0,Major Cities,29.42,O1,Early parenting centres,Yes,No,No,No,E5,Mothercraft
+VIC,Sunbury Day Hospital,210A02700,NET011515,Campus, ,7 Macedon Street,Sunbury 3429,0,Major Cities,27,O4,Other day procedure hospital,Yes,No,No,No,G,Un-peered and other
+VIC,Broadmeadows Health Service,210A02970,NET011517,Campus, ,35 Johnstone Street,Broadmeadows 3047,0,Major Cities,130.34,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+VIC,Craigieburn Health Service,210A03670,NET011517,Campus, ,350 Craigieburn Road West,Craigieburn 3064,0,Major Cities,6,O4,Other day procedure hospital,Yes,No,No,No,G,Un-peered and other
+VIC,Melton Health,210A03680,NET003020,Campus,0,195-209 Barries Road,Melton West 3337,0,Major Cities,17,O5,Unpeered,Yes,No,No,No,D1,Small regional acute
+VIC,Dental Health Services Victoria,210A05110, ,Hospital, ,720 Swanston Street,Carlton 3053,0,Major Cities,20,O5,Unpeered,Yes,No,No,No,G,Un-peered and other
+VIC,Albury Wodonga Health - Albury Camps,210N01650,NET003485,Campus,0010560W,201 Borella Road,Albury 2640,1,Inner Regional,119.84,L,Large public acute,Yes,Yes,No,Yes,B2,Large regional and remote
+VIC,VIFMH,240A05990, ,Network, ,Yarra Bend Road,Fairfield 3078,0,Major Cities,116,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+VIC,VIFMH-Prison Health Service (MAP),240A05990,240A05990,Campus, ,Yarra Bend Road,Fairfield 3078,0,Major Cities,36,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+VIC,Dame Phyllis Frost Centre - Marmak unit,240A05993,240A05990,Campus, ,Riding-Boundary Road,Deer Park 3023,0,Major Cities,0,Ps,Psychiatric public,No,No,No,No,F,Psychiatric
+VIC,Djerriwarrh Health Service,NET003020, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,G,Un-peered and other
+VIC,Peninsula Health,NET003285, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Monash Health,NET003289, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Bendigo Health Care Group,NET003292, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Goulburn Valley Health,NET003297, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,East Grampians Health Service,NET003301, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,C2,Medium (group 2)
+VIC,Maryborough District Health Service,NET003312, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,C2,Medium (group 2)
+VIC,Swan Hill District Health,NET003318, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,C1,Medium (group 1)
+VIC,Gippsland Southern Health Service,NET003323, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,C2,Medium (group 2)
+VIC,Mercy Public Hospital Inc.,NET003388, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Austin Health,NET003399, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Albury Wodonga Health,NET003485, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,G,Un-peered and other
+VIC,West Wimmera Health Service,NET003592, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,D2,Small non-acute
+VIC,Wimmera Health Care Group,NET003595, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,B2,Large regional and remote
+VIC,Beaufort & Skipton Health Service,NET003609, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,D2,Small non-acute
+VIC,Alpine Health,NET005618, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,E2,Multi-purpose services
+VIC,Ballarat Health Services,NET005647, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,East Wimmera Health Service,NET010433, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,D1,Small regional acute
+VIC,Hepburn Health Service,NET010434, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,D1,Small regional acute
+VIC,Barwon Health,NET010441, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Western District Health Service,NET010567, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,C1,Medium (group 1)
+VIC,Rural Northwest Health,NET011011, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,D1,Small regional acute
+VIC,South West Healthcare,NET011268, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,B2,Large regional and remote
+VIC,Central Gippsland Health Service,NET011269, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,B2,Large regional and remote
+VIC,Western Health,NET011515, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Northern Health,NET011517, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Eastern Health,NET011518, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Alfred Health,NET011519, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+VIC,Melbourne Health,NET011520, ,Network, , ,Various,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable,No,No,No,No,A1,Principal referral
+WA,Princess Margaret Hospital for Children,510100103, ,Hospital,0070020T,ROBERTS RD,SUBIACO 6008,0,Major Cities,233.2,W3,Childrens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+WA,King Edward Memorial Hospital for Women,510100104, ,Hospital,0070030L,374 BAGOT RD,SUBIACO 6008,0,Major Cities,253.4,W1,Womens,Yes,Yes,Yes,Yes,A2,Specialist womens and childrens
+WA,Sir Charles Gairdner Hospital,510100105, ,Hospital,0070990J,HOSPITAL AV,NEDLANDS 6009,0,Major Cities,633.3,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+WA,Selby Authorised Lodge,510100158, ,Hospital, ,2 SELBY ST,SHENTON PARK 6008,0,Major Cities,32,Ps,Psychiatric public,Yes,No,No,No,G,Un-peered and other
+WA,Osborne Park Hospital,510100239, ,Hospital,0071030F,OSBORNE PLCE,STIRLING 6021,0,Major Cities,157.6,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,Yes,C1,Medium (group 1)
+WA,Swan District Hospital,510100244, ,Hospital,0070950W,EVELINE RD,MIDDLE SWAN 6056,0,Major Cities,182.8,M,Medium public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+WA,Kalamunda Hospital,510100454, ,Hospital,0071270K,ELIZABETH ST,KALAMUNDA 6076,0,Major Cities,33,S2,Other small public acute,Yes,No,No,Yes,D2,Small non-acute
+WA,"Next Step Drug And Alcohol Services, East Perth",510100459, ,Hospital, ,32 MOORE ST,EAST PERTH 6004,0,Major Cities,17,O2,Drug and alcohol hospital,Yes,No,No,No,G,Un-peered and other
+WA,Joondalup Health Campus,510100642, ,Hospital,0075530X,GRAND BVD,JOONDALUP 6027,0,Major Cities,405,L,Large public acute,Yes,Yes,Yes,No,A1,Principal referral
+WA,Royal Perth Hospital Shenton Park Campus,510300100, ,Hospital,0070140H,SELBY ST,SHENTON PARK 6008,0,Major Cities,161.1,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,Yes,E4,Rehabilitation
+WA,Royal Perth Hospital Wellington Street Campus,510300101, ,Hospital,0070000X,WELLINGTON ST,PERTH 6000,0,Major Cities,696.5,PR,Principal referral,Yes,Yes,Yes,Yes,A1,Principal referral
+WA,Fremantle Hospital,510300102, ,Hospital,0070010W,ALMA ST,FREMANTLE 6160,0,Major Cities,492.1,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+WA,Kaleeya Hospital,510300130, ,Hospital,0075390T,15 WOLSELY RD,EAST FREMANTLE 6158,0,Major Cities,67,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,Yes,C1,Medium (group 1)
+WA,Armadale-Kelmscott Memorial Hospital,510300203, ,Hospital,0070040K,3056 ALBANY HWY,MOUNT NASURA 6112,0,Major Cities,206,L,Large public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+WA,Bentley Hospital,510300255, ,Hospital,0071150X,33 MILLS ST,BENTLEY 6102,0,Major Cities,185.7,O5,Unpeered,Yes,No,Yes,Yes,C1,Medium (group 1)
+WA,Rockingham General Hospital,510300277, ,Hospital,0071490Y,ELANORA DR,COOLOONGUP 6168,0,Major Cities,179.1,L,Large public acute,Yes,Yes,Yes,Yes,B1,Large Major cities
+WA,Murray Hospital,510300420, ,Hospital,0070670B,MCKAY ST,PINJARRA 6208,1,Inner Regional,15,S2,Other small public acute,Yes,No,No,No,G,Un-peered and other
+WA,Peel Health Campus,510300645, ,Hospital,0075560L,110 LAKES RD,MANDURAH 6210,0,Major Cities,148,M,Medium public acute,Yes,Yes,Yes,No,B1,Large Major cities
+WA,Fitzroy Crossing Hospital,510400127, ,Hospital,0070290T,FALLON RD,FITZROY CROSSING 6765,4,Very remote,14,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+WA,Halls Creek Hospital,510400128, ,Hospital,0070340Y,70 ROBERTA AV,HALLS CREEK 6770,4,Very remote,8,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+WA,Broome Hospital,510400206, ,Hospital,0070110L,ROBINSON ST,BROOME 6725,3,Remote,44.39,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,Yes,B2,Large regional and remote
+WA,Derby Hospital,510400215, ,Hospital,0070250A,CLARENDON ST,DERBY 6728,4,Very remote,31,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D3,Small remote acute
+WA,Wyndham Hospital,510400249, ,Hospital,0071200B,MINDEROO RD,WYNDHAM 6740,4,Very remote,7,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+WA,Kununurra Hospital,510400257, ,Hospital,0071050A,96 COOLIBAH DR,KUNUNURRA 6743,3,Remote,32,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D3,Small remote acute
+WA,Hedland Health Campus,510500131, ,Hospital, ,34 COLEBATCH WAY,SOUTH HEDLAND 6722,3,Remote,59,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,Yes,D3,Small remote acute
+WA,Onslow Hospital,510500238, ,Hospital,0070650H,SECOND AV,ONSLOW 6710,4,Very remote,6,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+WA,Roebourne Hospital,510500243, ,Hospital,0070710K,42 HAMPTON ST,ROEBOURNE 6718,3,Remote,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+WA,Tom Price Hospital,510500256, ,Hospital,0071140Y,MINE RD,TOM PRICE 6751,4,Very remote,8,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+WA,Newman Hospital,510500260, ,Hospital,0071180L,MINDARRA DR,NEWMAN 6753,4,Very remote,8,S2,Other small public acute,Yes,No,No,No,D3,Small remote acute
+WA,Paraburdoo Hospital,510500267, ,Hospital,0071240W,ROCKLEA RD,PARABURDOO 6754,4,Very remote,2,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+WA,Nickol Bay Hospital,510500460, ,Hospital,0071540F,MILLSTREAM RD,KARRATHA 6714,3,Remote,28,S1,Small public acute with surgery/obstetrics,Yes,Yes,Yes,No,D3,Small remote acute
+WA,Carnarvon Hospital,510600210, ,Hospital,0070160B,CLEAVER ST,CARNARVON 6701,3,Remote,31,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D3,Small remote acute
+WA,Exmouth Hospital,510600219, ,Hospital,0071100H,LYONS ST,EXMOUTH 6707,4,Very remote,6,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Geraldton Hospital,510600220, ,Hospital,0071130A,SHENTON ST,GERALDTON 6530,2,Outer Regional,99.66,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+WA,Meekatharra Hospital,510600234, ,Hospital,0070500Y,SAVAGE ST,MEEKATHARRA 6642,4,Very remote,9.83,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Morawa Hospital,510600418, ,Hospital,0070560J,CAULFIELD RD,MORAWA 6623,3,Remote,3.16,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Mullewa Hospital,510600419, ,Hospital,0070570H,ELDER ST,MULLEWA 6630,3,Remote,2.25,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Northampton Hospital,510600425, ,Hospital,0070640J,STEPHEN ST,NORTHAMPTON 6535,2,Outer Regional,4.42,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,North Midlands Hospital,510600426, ,Hospital,0070730H,THOMAS ST,THREE SPRINGS 6519,3,Remote,4.92,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Kalbarri Health Centre,510600475, ,Hospital,0071580K,KAIBER ST,KALBARRI 6536,3,Remote,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Dongara Multi-Purpose Health Centre,510600476, ,Hospital,0071570Y,48 BLENHEIM RD,DONGARA 6525,2,Outer Regional,3,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Lake Grace Hospital,510700230, ,Hospital,0070440W,STUBBS ST,LAKE GRACE 6353,3,Remote,6.16,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Merredin Hospital,510700235, ,Hospital,0070510X,KITCHENER RD,MERREDIN 6415,2,Outer Regional,24,S2,Other small public acute,Yes,No,Yes,No,E2,Multi-purpose services
+WA,Narrogin Hospital,510700236, ,Hospital,0070600W,WILLIAMS RD,NARROGIN 6312,2,Outer Regional,44,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+WA,Northam Hospital,510700237, ,Hospital,0071190K,ROBINSON ST,NORTHAM 6401,1,Inner Regional,43,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+WA,Wagin Hospital,510700245, ,Hospital,0070740F,WARWICK ST,WAGIN 6315,2,Outer Regional,18,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+WA,York Hospital,510700251, ,Hospital,0070830B,TREWS RD,YORK 6302,1,Inner Regional,10.75,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Beverley Hospital,510700401, ,Hospital,0070060H,SEWELL ST,BEVERLEY 6304,2,Outer Regional,6.25,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Boddington Hospital,510700402, ,Hospital,0070070F,HOTHAM AV,BODDINGTON 6390,1,Inner Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+WA,Bruce Rock Memorial Hospital,510700403, ,Hospital,0070120K,35 DUNSTALL ST,BRUCE ROCK 6418,3,Remote,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Corrigin Hospital,510700404, ,Hospital,0070190X,49 KIRKWOOD ST,CORRIGIN 6375,3,Remote,5,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Cunderdin Hospital,510700405, ,Hospital,0070220H,CUBBINE RD,CUNDERDIN 6407,2,Outer Regional,2.67,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Dalwallinu Hospital,510700406, ,Hospital,0070230F,MYERS ST,DALWALLINU 6609,3,Remote,6,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Kellerberrin Memorial Hospital,510700409, ,Hospital,0070390K,51 GREGORY ST,KELLERBERRIN 6410,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Goomalling Hospital,510700411, ,Hospital,0070320B,FORREST ST,GOOMALLING 6460,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Kondinin Hospital,510700413, ,Hospital,0070420Y,GRAHAM ST,KONDININ 6367,3,Remote,5.83,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Kununoppin Hospital,510700414, ,Hospital,0070430X,LEAKE ST,KUNUNOPPIN 6489,3,Remote,10.92,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Moora Hospital,510700417, ,Hospital,0070540L,DANDARAGAN ST,MOORA 6510,2,Outer Regional,15,S2,Other small public acute,Yes,No,Yes,No,E2,Multi-purpose services
+WA,Narembeen Memorial Hospital,510700423, ,Hospital,0070590B,ADA ST,NAREMBEEN 6369,3,Remote,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Pingelly Hospital,510700428, ,Hospital,0070680A,38 STRATFORD ST,PINGELLY 6308,2,Outer Regional,8,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+WA,Southern Cross Hospital,510700431, ,Hospital,0070720J,COOLGARDIE RD,SOUTHERN CROSS 6426,3,Remote,5.75,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Wongan Hills Hospital,510700437, ,Hospital,0070810H,ACKLAND ST,WONGAN HILLS 6603,2,Outer Regional,5.17,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Wyalkatchem-Koorda and Districts Hospital,510700438, ,Hospital,0070790W,HONOUR AV,WYALKATCHEM 6485,2,Outer Regional,4.67,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Quairading Hospital,510700446, ,Hospital,0070700L,HARRIS ST,QUAIRADING 6383,2,Outer Regional,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Esperance Hospital,510800218, ,Hospital,0070280W,HICKS ST,ESPERANCE 6450,3,Remote,30,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D3,Small remote acute
+WA,Kalgoorlie Hospital,510800226, ,Hospital,0070370T,PICCADILLY ST,KALGOORLIE 6430,2,Outer Regional,106,M,Medium public acute,Yes,Yes,Yes,Yes,C1,Medium (group 1)
+WA,Laverton Hospital,510800272, ,Hospital,0070450T,BERIA RD,LAVERTON 6440,4,Very remote,6.92,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Leonora Hospital,510800273, ,Hospital,0070460L,SADIE CANNING DR,LEONORA 6438,4,Very remote,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Norseman Hospital,510800424, ,Hospital,0070610T,TALBOT ST,NORSEMAN 6443,4,Very remote,5.75,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Albany Hospital,510900201, ,Hospital,0070050J,WARDEN AV,ALBANY 6330,2,Outer Regional,113,M,Medium public acute,Yes,Yes,Yes,Yes,B2,Large regional and remote
+WA,Denmark Hospital,510900214, ,Hospital,0070240B,50 SCOTSDALE RD,DENMARK 6333,2,Outer Regional,6.49,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Katanning Hospital,510900227, ,Hospital,0070380L,CLIVE ST,KATANNING 6317,2,Outer Regional,17,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,E2,Multi-purpose services
+WA,Gnowangerup Hospital,510900410, ,Hospital,0070330A,YOUGENUP RD,GNOWANGERUP 6335,3,Remote,4,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Plantagenet Hospital,510900429, ,Hospital,0070550K,LANGTON RD,MOUNT BARKER 6324,2,Outer Regional,16,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Ravensthorpe Hospital,510900430, ,Hospital,0070980K,MARTIN ST,RAVENSTHORPE 6346,4,Very remote,4.25,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Kojonup Hospital,510900445, ,Hospital,0070400B,SPRING ST,KOJONUP 6395,2,Outer Regional,6,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Augusta Hospital,511000204, ,Hospital,0071110F,DONOVAN ST,AUGUSTA 6290,1,Inner Regional,7.17,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Bunbury Hospital,511000208, ,Hospital,0071120B,BUSSELL HWY,BUNBURY 6230,1,Inner Regional,141,M,Medium public acute,Yes,Yes,Yes,Yes,A1,Principal referral
+WA,Busselton Hospital,511000209, ,Hospital,0070150F,MILL RD,BUSSELTON 6280,1,Inner Regional,50,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,C2,Medium (group 2)
+WA,Collie Hospital,511000211, ,Hospital,0070170A,DEAKIN ST,COLLIE 6225,1,Inner Regional,25,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+WA,Margaret River Hospital,511000233, ,Hospital,0070490H,FARRELLY ST,MARGARET RIVER 6285,1,Inner Regional,18,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+WA,Donnybrook Hospital,511000271, ,Hospital,0070260Y,BENTLEY ST,DONNYBROOK 6239,1,Inner Regional,14,VS,Very small public,Yes,No,No,No,G,Un-peered and other
+WA,Harvey Hospital,511000412, ,Hospital,0070350X,45 HAYWARD ST,HARVEY 6220,1,Inner Regional,26,S2,Other small public acute,Yes,No,No,No,D2,Small non-acute
+WA,Nannup Hospital,511000422, ,Hospital,0070630K,CAREY ST,NANNUP 6275,2,Outer Regional,4.75,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Pemberton Hospital,511000427, ,Hospital,0070660F,RAILWAY CR,PEMBERTON 6260,2,Outer Regional,8.16,S2,Other small public acute,Yes,No,No,No,E2,Multi-purpose services
+WA,Boyup Brook Soldiers Memorial Hospital,511000432, ,Hospital,0070080B,HOSPITAL DR,BOYUP BROOK 6244,2,Outer Regional,5.75,VS,Very small public,Yes,No,No,No,E2,Multi-purpose services
+WA,Warren Hospital,511000433, ,Hospital,0070470K,HOSPITAL AV,MANJIMUP 6258,2,Outer Regional,22,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D1,Small regional acute
+WA,Bridgetown Hospital,511000444, ,Hospital,0070090A,PENINSULA RD,BRIDGETOWN 6255,2,Outer Regional,24,S1,Small public acute with surgery/obstetrics,Yes,No,Yes,No,D2,Small non-acute
+WA,State Forensic Mental Health Service,540100135, ,Hospital, ,BROCKWAY RD,MOUNT CLAREMONT 6010,0,Major Cities,38,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric
+WA,Graylands Hospital,540100935, ,Hospital,0071590W,BROCKWAY RD,MOUNT CLAREMONT 6010,0,Major Cities,172.2,Ps,Psychiatric public,Yes,No,No,No,F,Psychiatric

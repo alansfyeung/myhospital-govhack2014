@@ -1,0 +1,261 @@
+/** 
+ * NSW.MyHospital 
+ * GovHack 2014
+ */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+h1, h2 {
+	font-weight: 400;
+}
+
+.ui-header h1.ui-title {
+	display: block;
+	width: 200px;
+	height: 40px;
+	margin: 0 auto;
+	background: url('../res/logo.png') no-repeat scroll center center transparent;
+}
+
+.helper {
+	height: 30px;
+	line-height: 1em;
+	padding: 8px 15px;
+	font-size: 0.8em;
+	text-align: center;
+}
+.helper img {
+	height: 18px;
+	width: 18px;
+	vertical-align: middle;
+}
+
+header{
+	text-align: center;
+	text-shadow: none;
+	color: midnightblue;
+	border-bottom: 3px solid steelblue;
+}
+
+header .back {
+	position: absolute;
+	top: 20px;
+	left: 5px;
+	display: block;
+	width: 60px;
+	height: 25px;
+	background: url('../res/back-button.png') no-repeat scroll center center transparent;
+}
+
+.hosp-entry, .cat-entry, .setting-entry {
+	height: 60px;
+	max-height: 60px;
+	border-bottom: 1px solid #ccc;
+	background: url('../res/forward-button.png') no-repeat scroll right center whitesmoke;
+	white-space: nowrap;
+	text-shadow: none;
+}
+.cat-entry .entry-inner {
+	padding-left: 60px;
+	background-position: 22px center;
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+.cat-entry.cat-pr .entry-inner {
+	background-image: url('../res/icon-pr.png');
+}
+.cat-entry.cat-lg .entry-inner {
+	background-image: url('../res/icon-lg.png');
+}
+.cat-entry.cat-sm .entry-inner {
+	background-image: url('../res/icon-sm.png');
+}
+.cat-entry.cat-wc .entry-inner {
+	background-image: url('../res/icon-wc.png');
+}
+.cat-entry.cat-sp .entry-inner {
+	background-image: url('../res/icon-sp.png');
+}
+.setting-entry {
+	color: whitesmoke;
+	background-color: #7f8c8d;
+	background-image: none;
+	height: 30px;
+}
+.setting-entry span {
+	font-weight: 400;
+}
+.setting-entry small {
+	float: right;
+}
+.setting-entry .entry-inner {
+	line-height: 30px;
+	height: 30px;
+}
+
+.hosp-sidebar {
+	float: left;
+	position: relative;
+	margin-right: 12px;
+	width: 140px;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+	background: url('../res/entry-icons.png') no-repeat scroll 55px center black;
+	vertical-align: middle;
+	text-shadow: none;
+	color: whitesmoke;
+}
+.hosp-sidebar.color-black {
+	background-color: black;
+}
+.hosp-sidebar.color-red {
+	background-color: #ea023a;
+} 
+.hosp-sidebar.color-amber {
+	background-color: #ffa300;
+}
+.hosp-sidebar.color-green {
+	background-color: #60b769;
+}
+
+.hosp-wait-total {
+	position: absolute;
+	left: 5px;
+	top: 15px;
+	width: 50px;
+	display: inline-block;
+	font-size: 28px;
+	margin-right: 25px;
+	line-height: 20px;
+	vertical-align: middle;
+	font-weight: 400;
+}
+.hosp-wait-total small {
+	display: block;
+	text-transform: uppercase;
+	font-size: 0.3em;
+	font-weight: 300;
+} 
+.hosp-dist-wait {
+	position: absolute;
+	width: 60px;
+	top: 15px;
+	right: 3px;
+	display: inline-block;
+	font-size: 16px;
+	line-height: 1em;
+	vertical-align: middle;
+	text-align: left;
+}
+
+
+.hosp-dist {	
+	background: #111;
+	color: white;
+}
+
+.entry-inner {
+	padding: 0 20px;
+	line-height: 60px;
+	vertical-align: middle;
+}
+.entry-inner span {
+	display: inline-block;
+	line-height: 1.25em;
+	vertical-align: middle;
+}
+.emergency-room {
+	line-height: -40px;
+	display: block;
+	font-size: 0.75em;
+	color: #ea023a;
+}
+
+.hosp-entry .entry-inner span {
+	max-width: 240px;
+	overflow: visible;
+	white-space: nowrap;
+}
+
+/** Details Page */
+.details .panel {
+	margin: 10px;
+	padding: 10px;
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+	background: white;
+}
+.details small {
+	display: block;
+	font-size: 0.75em;
+}
+.d-subtitle {
+	margin: 0;
+	width: 100%;
+	padding: 0.5em 0;
+	text-align: center;
+	background: #7f8c8d;
+	color: white;
+	font-weight: 400;
+}
+.d-name {
+	margin: 0;
+	font-weight: 700;
+	color: #333;
+	padding: 0.25em 0 0.5em;
+	border-bottom: 1px solid #ccc;
+}
+
+.d-checklist, .d-checklist.no {
+	font-size: 14px;
+	padding-left: 40px;
+	height: 30px;
+	margin: 10px 0;
+	line-height: 1em;
+	background-position: 5px center;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-image: url('../res/no.png');
+}
+.d-checklist.yes {
+	background-image: url('../res/yes.png');
+}
+.d-checklist.no {
+}
+
+[class^=col-left]{
+	float: left;
+}
+[class^=col-right]{
+	float: right;
+}
+.col-left60 {
+	width: 55%;
+	margin-right: 5%;
+}
+.col-right40 {
+	width: 35%;
+	margin-left: 5%;
+}
+.col-left50, .col-right50 {
+	width: 45%;
+}
+
+
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */

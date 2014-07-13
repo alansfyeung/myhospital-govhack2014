@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NSW.MyHospital</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/style.css" />
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.js"></script>
+<script src="js/app.js"></script>
+</head>
+<body>
+	<div data-role="page" id="categories" class="view categories">
+		<header data-role="header">
+			<h1></h1>
+		</header>
+		<div class="appbody"></div>
+		<div class="helper"><img src="res/info.png"/> Please select a category</div>
+	</div>
+	<div data-role="page" data-dialog="true" data-close-btn="right" id="setstate" class="view set-state">
+		<header data-role="header">
+			<h2>Select your State</h2>
+		</header>
+		<fieldset id="choose-state" data-role="controlgroup">
+			<input type="radio" name="select-state" id="state-nsw" value="NSW" checked="checked">
+			<label for="state-nsw">NSW</label>
+			<input type="radio" name="select-state" id="state-act" value="ACT">
+			<label for="state-act">ACT</label>
+			<input type="radio" name="select-state" id="state-qld" value="QLD">
+			<label for="state-qld">QLD</label>
+			<input type="radio" name="select-state" id="state-vic" value="VIC">
+			<label for="state-vic">VIC</label>
+			<input type="radio" name="select-state" id="state-sa" value="SA">
+			<label for="state-sa">SA</label>
+			<input type="radio" name="select-state" id="state-wa" value="WA">
+			<label for="state-wa">WA</label>
+			<input type="radio" name="select-state" id="state-tas" value="TAS">
+			<label for="state-tas">TAS</label>
+			<input type="radio" name="select-state" id="state-nt" value="NT">
+			<label for="state-nt">NT</label>
+		</fieldset>
+	</div>
+	<div data-role="page" id="list" class="view list">
+		<header data-role="header">
+			<div class="back"></div>
+			<h1></h1>
+		</header>
+		<div class="appbody"></div>
+		<div class="helper"><img src="res/info.png"/> Statistics based on average travel and waiting times</div>
+	</div>
+	<div data-role="page" id="details" class="view details">
+		<header data-role="header">
+			<div class="back"></div>
+			<h1></h1>
+		</header>
+		<div class="appbody">
+			<h4 class="d-subtitle"></h4>
+			<div class="panel clearfix">	
+				<div class="col-left60">
+					<h2 class="d-name"></h2>
+					<p class="d-peer"></p>
+				</div>
+				<div class="col-right40">
+					<p class="d-this-average"><small>Average Wait</small><span></span></p>
+					<p class="d-state-average"><small>State Average</small><span></span></p>
+				</div>
+			</div>
+			<div class="panel clearfix">
+				<div class="col-left50">
+					<div class="d-checklist d-emergency">Emergency Ward</div>
+					<div class="d-checklist d-elective">Elective Surgery</div>
+					<div class="d-checklist d-outpatient">Outpatient Clinic</div>
+				</div>
+				<div class="col-right50">
+					<p class="d-medicare"><small>Medicare Provider Number</small><span></span></p>
+					<p class="d-address"><small>Address</small><span></span></p>
+					<p class="d-area"><small>Area</small><span></span></p>
+					<p class="d-beds"><small>Number of Beds</small><span></span></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
