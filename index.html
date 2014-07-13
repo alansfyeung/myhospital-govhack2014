@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>NSW.MyHospital</title>
+<title>myHospital App</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css" />
@@ -14,7 +14,7 @@
 <body>
 	<div data-role="page" id="categories" class="view categories">
 		<header data-role="header">
-			<h1></h1>
+			<h1><!-- a logo. --></h1>
 		</header>
 		<div class="appbody"></div>
 		<div class="helper"><img src="res/info.png"/> Please select a category</div>
@@ -23,7 +23,7 @@
 		<header data-role="header">
 			<h2>Select your State</h2>
 		</header>
-		<fieldset id="choose-state" data-role="controlgroup">
+		<fieldset id="choose-state-form" data-role="controlgroup">
 			<input type="radio" name="select-state" id="state-nsw" value="NSW" checked="checked">
 			<label for="state-nsw">NSW</label>
 			<input type="radio" name="select-state" id="state-act" value="ACT">
@@ -45,8 +45,14 @@
 	<div data-role="page" id="list" class="view list">
 		<header data-role="header">
 			<div class="back"></div>
+			<div class="er-toggle"></div>
 			<h1></h1>
 		</header>
+		<div class="er-entry hidden clearfix" role="button">
+			<div class="entry-inner">
+				<small>Only showing Emergency Rooms (tap Heart to change)</small>
+			</div>
+		</div>
 		<div class="appbody"></div>
 		<div class="helper"><img src="res/info.png"/> Statistics based on average travel and waiting times</div>
 	</div>

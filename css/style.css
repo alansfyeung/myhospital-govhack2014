@@ -22,8 +22,8 @@ h1, h2 {
 
 .helper {
 	height: 30px;
+	padding:  15px;
 	line-height: 1em;
-	padding: 8px 15px;
 	font-size: 0.8em;
 	text-align: center;
 }
@@ -49,6 +49,18 @@ header .back {
 	height: 25px;
 	background: url('../res/back-button.png') no-repeat scroll center center transparent;
 }
+header .er-toggle {
+	position: absolute;
+	top: 18px;
+	right: 12px;
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url('../res/er-gs.png') no-repeat scroll center center transparent;
+}
+header .er-toggle.toggle-on {
+	background-image: url('../res/er.png');
+}
 
 .hosp-entry, .cat-entry, .setting-entry {
 	height: 60px;
@@ -57,6 +69,18 @@ header .back {
 	background: url('../res/forward-button.png') no-repeat scroll right center whitesmoke;
 	white-space: nowrap;
 	text-shadow: none;
+}
+.hosp-entry:before {
+	content: '';
+	display: block;
+	height: 60px;
+	width: 40px;
+	float: right;
+	z-index: -1;
+	background: transparent -webkit-linear-gradient(left, transparent, whitesmoke);
+	background: transparent -o-linear-gradient(left, transparent, whitesmoke); 
+	background: transparent -moz-linear-gradient(left, transparent, whitesmoke); 
+	background: transparent linear-gradient(left, transparent, whitesmoke); 
 }
 .cat-entry .entry-inner {
 	padding-left: 60px;
@@ -79,11 +103,13 @@ header .back {
 .cat-entry.cat-sp .entry-inner {
 	background-image: url('../res/icon-sp.png');
 }
-.setting-entry {
+.setting-entry, .er-entry {
 	color: whitesmoke;
 	background-color: #7f8c8d;
 	background-image: none;
 	height: 30px;
+	font-size: 14px;
+	text-shadow: none;
 }
 .setting-entry span {
 	font-weight: 400;
@@ -91,9 +117,13 @@ header .back {
 .setting-entry small {
 	float: right;
 }
-.setting-entry .entry-inner {
+.setting-entry .entry-inner,
+.er-entry .entry-inner {
 	line-height: 30px;
 	height: 30px;
+}
+.er-entry .entry-inner {
+	text-align: center;
 }
 
 .hosp-sidebar {
@@ -167,6 +197,9 @@ header .back {
 	display: inline-block;
 	line-height: 1.25em;
 	vertical-align: middle;
+}
+.entry-inner smaller {
+	font-size: 0.6em;
 }
 .emergency-room {
 	line-height: -40px;
@@ -245,7 +278,6 @@ header .back {
 }
 
 
-
 .clearfix:after {
      visibility: hidden;
      display: block;
@@ -259,3 +291,10 @@ header .back {
 * html .clearfix { height: 1%; }
 .clearfix { display: block; }
 /* close commented backslash hack */
+
+.hidden {
+	display: none;
+	visbility: hidden;
+}
+
+

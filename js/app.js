@@ -41,10 +41,25 @@ $(function(){
 		}
 	});
 	
-	$('#choose-state [name=select-state]').change(function(){
+	// Option for changing state
+	$('#choose-state-form [name=select-state]').change(function(){
 		Presenter.activeState = $(this).val();
 		$('.state-setting span').html(Presenter.activeState);
-		console.log($(this).val());
+	});
+	
+	// Emergency Room toggle, display a message, reload the list, etc
+	$('.er-toggle').click(function(){
+		Presenter.emergencyOnly = !Presenter.emergencyOnly;
+		if (Presenter.emergencyOnly){
+			$(this).addClass('toggle-on');
+			$('.er-entry').removeClass('hidden');
+		}
+		else {
+			$(this).removeClass('toggle-on');
+			$('.er-entry').addClass('hidden');
+		}
+		Presenter.clearList();
+		Presenter.viewList();
 	});
 	
 	Presenter.loadList();
@@ -65,6 +80,7 @@ Presenter = {
 			$locality.click(function(event){
 				event.preventDefault();
 				$.mobile.navigate('#setstate');
+				return false;
 			});
 			$categories.append($locality);
 			for (x in data){
@@ -186,7 +202,6 @@ function Hospital(data){
 				break;
 			}
 		}
-		console.log(h.wait, h.wait_state_avg);
 		$entry = $('<div class="hosp-entry clearfix" data-medicare="'+h.medicare+'" data-mhid="'+h.mhid+'">');
 		$entrySidebar = $('<div class="hosp-sidebar color-'+colorCode+'">');
 		$entrySidebar.append('<div class="hosp-wait-total">'+score+'<small>min avg</small></div>');
